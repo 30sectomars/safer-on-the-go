@@ -1,0 +1,310 @@
+Timestamp, Selection, Source, Description, Index
+1754216526502, 2D, State, INIT, 
+1754216526506, 2D, State, START, 
+1754216529086, 2D, State, WAIT, 
+1754216529297, 2D, Control Event, UP, 6 / 5
+1754216529316, 2D, State, WAIT, 
+1754216529615, 2D, Control Event, UP, 5 / 5
+1754216529636, 2D, State, WAIT, 
+1754216529861, 2D, Control Event, UP, 4 / 5
+1754216529879, 2D, State, WAIT, 
+1754216530234, 2D, Control Event, UP, 3 / 5
+1754216530286, 2D, State, WAIT, 
+1754216546975, 2D, State, RESET, 
+1754216546998, 2D, App Event, Target direction[Up_left], 6 / 4
+1754216549295, 2D, Control Event, LEFT, 7 / 4
+1754216549999, 2D, Control Event, UP, 6 / 4
+1754216550953, 2D, Control Event, SELECT, 6 / 4
+1754216550980, 2D, App Event, Target selected, 
+1754216551002, 2D, State, WAIT, 
+1754216566449, 2D, State, RESET, 
+1754216566467, 2D, App Event, Target direction[Down_out_left], 13 / 1
+1754216569038, 2D, Control Event, LEFT, 7 / 4
+1754216569337, 2D, Control Event, LEFT, 7 / 3
+1754216569756, 2D, Control Event, LEFT, 7 / 2
+1754216570376, 2D, Control Event, LEFT, 7 / 1
+1754216572818, 2D, Control Event, DOWN, 8 / 1
+1754216573120, 2D, Control Event, DOWN, 9 / 1
+1754216573440, 2D, Control Event, DOWN, 10 / 1
+1754216573838, 2D, Control Event, DOWN, 11 / 1
+1754216574233, 2D, Control Event, DOWN, 12 / 1
+1754216574914, 2D, Control Event, DOWN, 13 / 1
+1754216575605, 2D, Control Event, SELECT, 13 / 1
+1754216575629, 2D, App Event, Target selected, 
+1754216575651, 2D, State, WAIT, 
+1754216575778, 2D, Control Event, SELECT, 13 / 1
+1754216575788, 2D, State, WAIT, 
+1754216591569, 2D, State, RESET, 
+1754216591590, 2D, App Event, Target direction[Up_out_right], 2 / 8
+1754216594220, 2D, Control Event, RIGHT, 7 / 6
+1754216594438, 2D, Control Event, RIGHT, 7 / 7
+1754216594838, 2D, Control Event, RIGHT, 7 / 8
+1754216595357, 2D, Control Event, RIGHT, 7 / 9
+1754216597100, 2D, Control Event, LEFT, 7 / 8
+1754216597916, 2D, Control Event, UP, 6 / 8
+1754216598235, 2D, Control Event, UP, 5 / 8
+1754216598537, 2D, Control Event, UP, 4 / 8
+1754216598736, 2D, Control Event, UP, 3 / 8
+1754216599057, 2D, Control Event, UP, 2 / 8
+1754216599556, 2D, Control Event, UP, 1 / 8
+1754216600259, 2D, Control Event, DOWN, 2 / 8
+1754216600926, 2D, Control Event, SELECT, 2 / 8
+1754216600948, 2D, App Event, Target selected, 
+1754216600972, 2D, State, WAIT, 
+1754216601068, 2D, Control Event, SELECT, 2 / 8
+1754216601088, 2D, State, WAIT, 
+1754216623896, 2D, State, RESET, 
+1754216623918, 2D, App Event, Target direction[Down_right], 8 / 6
+1754216626380, 2D, Control Event, RIGHT, 7 / 6
+1754216627736, 2D, Control Event, DOWN, 8 / 6
+1754216628263, 2D, Control Event, SELECT, 8 / 6
+1754216628286, 2D, App Event, Target selected, 
+1754216628311, 2D, State, WAIT, 
+1754216651788, 2D, State, RESET, 
+1754216651804, 2D, App Event, Target direction[Up_right], 5 / 6
+1754216654702, 2D, Control Event, RIGHT, 7 / 6
+1754216655195, 2D, Control Event, UP, 6 / 6
+1754216655518, 2D, Control Event, UP, 5 / 6
+1754216655671, 2D, Control Event, UP, 4 / 6
+1754216655937, 2D, Control Event, SELECT, 4 / 6
+1754216656101, 2D, Control Event, SELECT, 4 / 6
+1754216656893, 2D, Control Event, DOWN, 5 / 6
+1754216657237, 2D, Control Event, SELECT, 5 / 6
+1754216657258, 2D, App Event, Target selected, 
+1754216657277, 2D, State, WAIT, 
+1754216679025, 2D, State, RESET, 
+1754216679046, 2D, App Event, Target direction[Down_left], 9 / 4
+1754216681360, 2D, Control Event, LEFT, 7 / 4
+1754216681995, 2D, Control Event, DOWN, 8 / 4
+1754216682633, 2D, Control Event, DOWN, 9 / 4
+1754216683459, 2D, Control Event, SELECT, 9 / 4
+1754216683486, 2D, App Event, Target selected, 
+1754216683509, 2D, State, WAIT, 
+1754216700435, 2D, State, RESET, 
+1754216700456, 2D, App Event, Target direction[Down_out_right], 12 / 8
+1754216702534, 2D, Control Event, RIGHT, 7 / 6
+1754216702983, 2D, Control Event, RIGHT, 7 / 7
+1754216703593, 2D, Control Event, RIGHT, 7 / 8
+1754216704093, 2D, Control Event, RIGHT, 7 / 9
+1754216705337, 2D, Control Event, LEFT, 7 / 8
+1754216706352, 2D, Control Event, DOWN, 8 / 8
+1754216706672, 2D, Control Event, DOWN, 9 / 8
+1754216707170, 2D, Control Event, DOWN, 10 / 8
+1754216707480, 2D, Control Event, DOWN, 11 / 8
+1754216707874, 2D, Control Event, DOWN, 12 / 8
+1754216708356, 2D, Control Event, DOWN, 13 / 8
+1754216709322, 2D, Control Event, UP, 12 / 8
+1754216709780, 2D, Control Event, SELECT, 12 / 8
+1754216709805, 2D, App Event, Target selected, 
+1754216709831, 2D, State, WAIT, 
+1754216731026, 2D, State, RESET, 
+1754216731052, 2D, App Event, Target direction[Up_out_left], 3 / 2
+1754216733275, 2D, Control Event, LEFT, 7 / 4
+1754216733715, 2D, Control Event, LEFT, 7 / 3
+1754216734205, 2D, Control Event, LEFT, 7 / 2
+1754216735189, 2D, Control Event, UP, 6 / 2
+1754216735614, 2D, Control Event, UP, 5 / 2
+1754216736107, 2D, Control Event, UP, 4 / 2
+1754216736624, 2D, Control Event, UP, 3 / 2
+1754216737228, 2D, Control Event, UP, 2 / 2
+1754216737378, 2D, Control Event, UP, 1 / 2
+1754216738509, 2D, Control Event, DOWN, 2 / 2
+1754216739473, 2D, Control Event, DOWN, 3 / 2
+1754216739584, 2D, Control Event, DOWN, 4 / 2
+1754216740056, 2D, Control Event, SELECT, 4 / 2
+1754216740666, 2D, Control Event, UP, 3 / 2
+1754216740907, 2D, Control Event, SELECT, 3 / 2
+1754216740927, 2D, App Event, Target selected, 
+1754216740947, 2D, State, END, 
+1754216740968, 2D, App Event, 2D assignment finished, 
+1754216741042, 2D, State, INIT, 
+1754216741068, 2D, State, START, 
+1754216741307, Vertical, State, INIT, 
+1754216741318, Vertical, State, START, 
+1754216743561, Vertical, State, WAIT, 
+1754216758916, Vertical, State, RESET, 
+1754216758937, Vertical, App Event, Target direction[Down], 17
+1754216761212, Vertical, Control Event, DOWN, 14
+1754216761612, Vertical, Control Event, DOWN, 15
+1754216762133, Vertical, Control Event, DOWN, 16
+1754216763387, Vertical, Control Event, DOWN, 17
+1754216763551, Vertical, Control Event, DOWN, 18
+1754216764807, Vertical, Control Event, UP, 17
+1754216765290, Vertical, Control Event, SELECT, 17
+1754216765315, Vertical, App Event, Target selected, 
+1754216765340, Vertical, State, WAIT, 
+1754216784131, Vertical, State, RESET, 
+1754216784151, Vertical, App Event, Target direction[Up], 8
+1754216786402, Vertical, Control Event, UP, 12
+1754216786602, Vertical, Control Event, UP, 11
+1754216787119, Vertical, Control Event, UP, 10
+1754216787504, Vertical, Control Event, UP, 9
+1754216787652, Vertical, Control Event, UP, 8
+1754216788425, Vertical, Control Event, SELECT, 8
+1754216788447, Vertical, App Event, Target selected, 
+1754216788474, Vertical, State, WAIT, 
+1754216804988, Vertical, State, RESET, 
+1754216805009, Vertical, App Event, Target direction[Up], 10
+1754216806447, Vertical, Control Event, UP, 12
+1754216806929, Vertical, Control Event, UP, 11
+1754216807502, Vertical, Control Event, UP, 10
+1754216808603, Vertical, Control Event, SELECT, 10
+1754216808629, Vertical, App Event, Target selected, 
+1754216808653, Vertical, State, WAIT, 
+1754216832639, Vertical, State, RESET, 
+1754216832657, Vertical, App Event, Target direction[Up_out], 6
+1754216835151, Vertical, Control Event, UP, 12
+1754216835723, Vertical, Control Event, UP, 11
+1754216836152, Vertical, Control Event, UP, 10
+1754216836889, Vertical, Control Event, UP, 9
+1754216837272, Vertical, Control Event, UP, 8
+1754216837808, Vertical, Control Event, UP, 7
+1754216838247, Vertical, Control Event, UP, 6
+1754216838899, Vertical, Control Event, SELECT, 6
+1754216838922, Vertical, App Event, Target selected, 
+1754216838945, Vertical, State, WAIT, 
+1754216839116, Vertical, Control Event, SELECT, 6
+1754216839141, Vertical, State, WAIT, 
+1754216858607, Vertical, State, RESET, 
+1754216858626, Vertical, App Event, Target direction[Down_out], 22
+1754216861770, Vertical, Control Event, DOWN, 14
+1754216862189, Vertical, Control Event, DOWN, 15
+1754216862361, Vertical, Control Event, DOWN, 16
+1754216862691, Vertical, Control Event, DOWN, 17
+1754216863629, Vertical, Control Event, DOWN, 18
+1754216864123, Vertical, Control Event, DOWN, 19
+1754216864845, Vertical, Control Event, DOWN, 20
+1754216864934, Vertical, Control Event, DOWN, 21
+1754216865400, Vertical, Control Event, DOWN, 22
+1754216866336, Vertical, Control Event, SELECT, 22
+1754216866366, Vertical, App Event, Target selected, 
+1754216866387, Vertical, State, WAIT, 
+1754216866503, Vertical, Control Event, SELECT, 22
+1754216866527, Vertical, State, WAIT, 
+1754216890810, Vertical, State, RESET, 
+1754216890831, Vertical, App Event, Target direction[Up_out], 4
+1754216893688, Vertical, Control Event, UP, 12
+1754216894023, Vertical, Control Event, UP, 11
+1754216894341, Vertical, Control Event, UP, 10
+1754216894639, Vertical, Control Event, UP, 9
+1754216895107, Vertical, Control Event, UP, 8
+1754216895442, Vertical, Control Event, UP, 7
+1754216895911, Vertical, Control Event, UP, 6
+1754216896054, Vertical, Control Event, UP, 5
+1754216896745, Vertical, Control Event, UP, 4
+1754216897997, Vertical, Control Event, SELECT, 4
+1754216898021, Vertical, App Event, Target selected, 
+1754216898045, Vertical, State, WAIT, 
+1754216898199, Vertical, Control Event, SELECT, 4
+1754216898223, Vertical, State, WAIT, 
+1754216919210, Vertical, State, RESET, 
+1754216919227, Vertical, App Event, Target direction[Down_out], 20
+1754216923107, Vertical, Control Event, DOWN, 14
+1754216923610, Vertical, Control Event, DOWN, 15
+1754216923830, Vertical, Control Event, DOWN, 16
+1754216924231, Vertical, Control Event, DOWN, 17
+1754216924499, Vertical, Control Event, DOWN, 18
+1754216924649, Vertical, Control Event, DOWN, 19
+1754216924951, Vertical, Control Event, DOWN, 20
+1754216925368, Vertical, Control Event, DOWN, 21
+1754216926068, Vertical, Control Event, UP, 20
+1754216926505, Vertical, Control Event, SELECT, 20
+1754216926528, Vertical, App Event, Target selected, 
+1754216926545, Vertical, State, WAIT, 
+1754216948952, Vertical, State, RESET, 
+1754216948970, Vertical, App Event, Target direction[Down], 15
+1754216951366, Vertical, Control Event, DOWN, 14
+1754216951626, Vertical, Control Event, DOWN, 15
+1754216952162, Vertical, Control Event, SELECT, 15
+1754216952185, Vertical, App Event, Target selected, 
+1754216952208, Vertical, State, END, 
+1754216952230, Vertical, App Event, Vertical assignment finished, 
+1754216952289, Vertical, State, INIT, 
+1754216952325, Vertical, State, START, 
+1754216952442, Horizontal, State, INIT, 
+1754216952465, Horizontal, State, START, 
+1754216954663, Horizontal, State, WAIT, 
+1754216971528, Horizontal, State, RESET, 
+1754216971550, Horizontal, App Event, Target direction[Right], 13
+1754216973629, Horizontal, Control Event, RIGHT, 10
+1754216973948, Horizontal, Control Event, RIGHT, 11
+1754216974519, Horizontal, Control Event, RIGHT, 12
+1754216975290, Horizontal, Control Event, RIGHT, 13
+1754216976426, Horizontal, Control Event, SELECT, 13
+1754216976451, Horizontal, App Event, Target selected, 
+1754216976473, Horizontal, State, WAIT, 
+1754216999116, Horizontal, State, RESET, 
+1754216999135, Horizontal, App Event, Target direction[Right_out], 14
+1754217000803, Horizontal, Control Event, RIGHT, 10
+1754217000988, Horizontal, Control Event, RIGHT, 11
+1754217001337, Horizontal, Control Event, RIGHT, 12
+1754217001622, Horizontal, Control Event, RIGHT, 13
+1754217002157, Horizontal, Control Event, RIGHT, 14
+1754217002674, Horizontal, Control Event, RIGHT, 15
+1754217004109, Horizontal, Control Event, LEFT, 14
+1754217004583, Horizontal, Control Event, SELECT, 14
+1754217004605, Horizontal, App Event, Target selected, 
+1754217004627, Horizontal, State, WAIT, 
+1754217022055, Horizontal, State, RESET, 
+1754217022076, Horizontal, App Event, Target direction[Right_out], 15
+1754217024167, Horizontal, Control Event, RIGHT, 10
+1754217024488, Horizontal, Control Event, RIGHT, 11
+1754217024558, Horizontal, Control Event, RIGHT, 12
+1754217025087, Horizontal, Control Event, RIGHT, 13
+1754217025405, Horizontal, Control Event, RIGHT, 14
+1754217026126, Horizontal, Control Event, RIGHT, 15
+1754217027214, Horizontal, Control Event, SELECT, 15
+1754217027240, Horizontal, App Event, Target selected, 
+1754217027264, Horizontal, State, WAIT, 
+1754217044327, Horizontal, State, RESET, 
+1754217044343, Horizontal, App Event, Target direction[Left_out], 3
+1754217047413, Horizontal, Control Event, LEFT, 8
+1754217047719, Horizontal, Control Event, LEFT, 7
+1754217048004, Horizontal, Control Event, LEFT, 6
+1754217048185, Horizontal, Control Event, LEFT, 5
+1754217048538, Horizontal, Control Event, LEFT, 4
+1754217049124, Horizontal, Control Event, LEFT, 3
+1754217050064, Horizontal, Control Event, SELECT, 3
+1754217050090, Horizontal, App Event, Target selected, 
+1754217050112, Horizontal, State, WAIT, 
+1754217074888, Horizontal, State, RESET, 
+1754217074911, Horizontal, App Event, Target direction[Left], 6
+1754217081625, Horizontal, Control Event, LEFT, 8
+1754217082035, Horizontal, Control Event, LEFT, 7
+1754217082952, Horizontal, Control Event, LEFT, 6
+1754217083448, Horizontal, Control Event, SELECT, 6
+1754217083474, Horizontal, App Event, Target selected, 
+1754217083497, Horizontal, State, WAIT, 
+1754217099363, Horizontal, State, RESET, 
+1754217099381, Horizontal, App Event, Target direction[Right], 12
+1754217103126, Horizontal, Control Event, RIGHT, 10
+1754217103330, Horizontal, Control Event, RIGHT, 11
+1754217103634, Horizontal, Control Event, RIGHT, 12
+1754217104426, Horizontal, Control Event, SELECT, 12
+1754217104451, Horizontal, App Event, Target selected, 
+1754217104472, Horizontal, State, WAIT, 
+1754217126081, Horizontal, State, RESET, 
+1754217126101, Horizontal, App Event, Target direction[Left_out], 2
+1754217128764, Horizontal, Control Event, LEFT, 8
+1754217129331, Horizontal, Control Event, LEFT, 7
+1754217129753, Horizontal, Control Event, LEFT, 6
+1754217130157, Horizontal, Control Event, LEFT, 5
+1754217130537, Horizontal, Control Event, LEFT, 4
+1754217131288, Horizontal, Control Event, LEFT, 3
+1754217131893, Horizontal, Control Event, LEFT, 2
+1754217132798, Horizontal, Control Event, SELECT, 2
+1754217132820, Horizontal, App Event, Target selected, 
+1754217132844, Horizontal, State, WAIT, 
+1754217157484, Horizontal, State, RESET, 
+1754217157504, Horizontal, App Event, Target direction[Left], 5
+1754217160592, Horizontal, Control Event, LEFT, 8
+1754217161229, Horizontal, Control Event, LEFT, 7
+1754217161599, Horizontal, Control Event, LEFT, 6
+1754217162318, Horizontal, Control Event, LEFT, 5
+1754217163010, Horizontal, Control Event, SELECT, 5
+1754217163033, Horizontal, App Event, Target selected, 
+1754217163056, Horizontal, State, END, 
+1754217163079, Horizontal, App Event, Horizontal assignment finished, 
+1754217163127, Horizontal, App Event, All assignments finished, 
+1754217163165, Horizontal, State, INIT, 
+1754217163189, Horizontal, State, START, 

@@ -1,0 +1,1105 @@
+ProbID	Question	QuestionType	Answer	Method
+0	How old are you?	General	32	General
+0	What is your gender?	General	Female	General
+0	How often do you ride a bicycle?	General	Never	General
+0	Which types of bicycles have you ridden so far?	General	City/Trekking bike;Mountain bike	General
+0	How often do you use a smartphone while riding a bicycle?	General	1	General
+0	If you used a smartphone while riding a bicycle, what did you do with it?	General		General
+0	In what environment did you use your smartphone while riding your bicycle?	General		General
+0	How did you use a smartphone while riding your bicycle?	General		General
+0	How safe did you feel while operating the device?	Likert	2	Direct Touch (Tablet)
+0	How comfortable did you feel?	Likert	1	Direct Touch (Tablet)
+0	I could focus on cycling while using the input method.	Likert	1	Direct Touch (Tablet)
+0	The input felt physically effortless.	Likert	4	Direct Touch (Tablet)
+0	I found it easy to understand how to use the input method.	Likert	4	Direct Touch (Tablet)
+0	Did you feel that using touch input required you to look away from the road/environment too much?	Likert	5	Direct Touch (Tablet)
+0	I could reach the targets precisely with the input method.	Likert	3	Direct Touch (Tablet)
+0	How safe did you feel while operating the device?	Likert	3	Buttons (Remote)
+0	How comfortable did you feel?	Likert	3	Buttons (Remote)
+0	I found it easy to understand how to use the input method.	Likert	4	Buttons (Remote)
+0	I could reach the targets precisely with the input method.	Likert	2	Buttons (Remote)
+0	I could focus on cycling while using the input method.	Likert	1	Buttons (Remote)
+0	The input felt physically effortless.	Likert	5	Buttons (Remote)
+0	The remote control did not interfere with my grip or steering.	Likert	2	Buttons (Remote)
+0	I enjoyed using this remote control.	Likert	3	Buttons (Remote)
+0	How safe did you feel while operating the device?	Likert	1	Indirect Touch (Remote)
+0	How comfortable did you feel?	Likert	1	Indirect Touch (Remote)
+0	I found it easy to understand how to use the input method.	Likert	3	Indirect Touch (Remote)
+0	I could reach the targets precisely with the input method.	Likert	2	Indirect Touch (Remote)
+0	I could focus on cycling while using the input method.	Likert	1	Indirect Touch (Remote)
+0	The input felt physically effortless.	Likert	2	Indirect Touch (Remote)
+0	The remote control did not interfere with my grip or steering.	Likert	2	Indirect Touch (Remote)
+0	I enjoyed using this remote control.	Likert	1	Indirect Touch (Remote)
+0	How safe did you feel while operating the device?	Likert	5	Analog Stick (Remote)
+0	How comfortable did you feel?	Likert	5	Analog Stick (Remote)
+0	I found it easy to understand how to use the input method.	Likert	5	Analog Stick (Remote)
+0	I could reach the targets precisely with the input method.	Likert	5	Analog Stick (Remote)
+0	I could focus on cycling while using the input method.	Likert	4	Analog Stick (Remote)
+0	The input felt physically effortless.	Likert	5	Analog Stick (Remote)
+0	The remote control did not interfere with my grip or steering.	Likert	5	Analog Stick (Remote)
+0	I enjoyed using this remote control.	Likert	5	Analog Stick (Remote)
+0	Which input method did you find the best overall?	Overall	Analog Stick (Remote)	Overall
+0	Which input method did you find the easiest to use?	Overall	Analog Stick (Remote)	Overall
+0	Which input method did you feel the safest using?	Overall	Analog Stick (Remote)	Overall
+0	Which input method allowed you to select the targets most accurately?	Overall	Analog Stick (Remote)	Overall
+0	Which input method allowed you to access the targets the quickest?	Overall	Analog Stick (Remote)	Overall
+0	Which input method would you prefer to use if you had to use it regularly on a bike?	Overall	Analog Stick (Remote)	Overall
+0	Do you have any suggestions for improving the input methods?	Overall		Overall
+1	How old are you?	General	33	General
+1	What is your gender?	General	Male	General
+1	How often do you ride a bicycle?	General	At least once a week	General
+1	Which types of bicycles have you ridden so far?	General	City/Trekking bike;Mountain bike	General
+1	How often do you use a smartphone while riding a bicycle?	General	2	General
+1	If you used a smartphone while riding a bicycle, what did you do with it?	General	Looked up information on the Internet or for driving directions;Use a smartphone to send text messages;Use a smartphone to read text messages;Use a smartphone to respond a call;Use a smartphone for music control	General
+1	In what environment did you use your smartphone while riding your bicycle?	General	Side road;Dirt road;Red traffic light	General
+1	How did you use a smartphone while riding your bicycle?	General	One-handed;Voice assistent;Headphone remote control	General
+1	How safe did you feel while operating the device?	Likert	5	Buttons (Remote)
+1	How comfortable did you feel?	Likert	3	Buttons (Remote)
+1	I found it easy to understand how to use the input method.	Likert	5	Buttons (Remote)
+1	I could reach the targets precisely with the input method.	Likert	5	Buttons (Remote)
+1	I could focus on cycling while using the input method.	Likert	5	Buttons (Remote)
+1	The input felt physically effortless.	Likert	4	Buttons (Remote)
+1	The remote control did not interfere with my grip or steering.	Likert	4	Buttons (Remote)
+1	I enjoyed using this remote control.	Likert	4	Buttons (Remote)
+1	How safe did you feel while operating the device?	Likert	5	Analog Stick (Remote)
+1	How comfortable did you feel?	Likert	5	Analog Stick (Remote)
+1	I found it easy to understand how to use the input method.	Likert	5	Analog Stick (Remote)
+1	I could reach the targets precisely with the input method.	Likert	5	Analog Stick (Remote)
+1	I could focus on cycling while using the input method.	Likert	5	Analog Stick (Remote)
+1	The input felt physically effortless.	Likert	4	Analog Stick (Remote)
+1	The remote control did not interfere with my grip or steering.	Likert	5	Analog Stick (Remote)
+1	I enjoyed using this remote control.	Likert	5	Analog Stick (Remote)
+1	How safe did you feel while operating the device?	Likert	3	Direct Touch (Tablet)
+1	How comfortable did you feel?	Likert	3	Direct Touch (Tablet)
+1	I could focus on cycling while using the input method.	Likert	4	Direct Touch (Tablet)
+1	The input felt physically effortless.	Likert	4	Direct Touch (Tablet)
+1	I found it easy to understand how to use the input method.	Likert	5	Direct Touch (Tablet)
+1	Did you feel that using touch input required you to look away from the road/environment too much?	Likert	1	Direct Touch (Tablet)
+1	I could reach the targets precisely with the input method.	Likert	5	Direct Touch (Tablet)
+1	How safe did you feel while operating the device?	Likert	5	Indirect Touch (Remote)
+1	How comfortable did you feel?	Likert	5	Indirect Touch (Remote)
+1	I found it easy to understand how to use the input method.	Likert	5	Indirect Touch (Remote)
+1	I could reach the targets precisely with the input method.	Likert	3	Indirect Touch (Remote)
+1	I could focus on cycling while using the input method.	Likert	4	Indirect Touch (Remote)
+1	The input felt physically effortless.	Likert	5	Indirect Touch (Remote)
+1	The remote control did not interfere with my grip or steering.	Likert	5	Indirect Touch (Remote)
+1	I enjoyed using this remote control.	Likert	5	Indirect Touch (Remote)
+1	Which input method did you find the best overall?	Overall	Analog Stick (Remote)	Overall
+1	Which input method did you find the easiest to use?	Overall	Analog Stick (Remote)	Overall
+1	Which input method did you feel the safest using?	Overall	Buttons (Remote)	Overall
+1	Which input method allowed you to select the targets most accurately?	Overall	Buttons (Remote)	Overall
+1	Which input method allowed you to access the targets the quickest?	Overall	Direct Touch (Tablet)	Overall
+1	Which input method would you prefer to use if you had to use it regularly on a bike?	Overall	Analog Stick (Remote)	Overall
+1	Do you have any suggestions for improving the input methods?	Overall	More stable installation, smaller design and therefore easier and safer to reach.	Overall
+2	How old are you?	General	32	General
+2	What is your gender?	General	Female	General
+2	How often do you ride a bicycle?	General	Never	General
+2	Which types of bicycles have you ridden so far?	General	None	General
+2	How often do you use a smartphone while riding a bicycle?	General	1	General
+2	If you used a smartphone while riding a bicycle, what did you do with it?	General	None	General
+2	In what environment did you use your smartphone while riding your bicycle?	General	/	General
+2	How did you use a smartphone while riding your bicycle?	General	/	General
+2	How safe did you feel while operating the device?	Likert	4	Analog Stick (Remote)
+2	How comfortable did you feel?	Likert	4	Analog Stick (Remote)
+2	I found it easy to understand how to use the input method.	Likert	5	Analog Stick (Remote)
+2	I could reach the targets precisely with the input method.	Likert	4	Analog Stick (Remote)
+2	I could focus on cycling while using the input method.	Likert	4	Analog Stick (Remote)
+2	The input felt physically effortless.	Likert	5	Analog Stick (Remote)
+2	The remote control did not interfere with my grip or steering.	Likert	1	Analog Stick (Remote)
+2	I enjoyed using this remote control.	Likert	4	Analog Stick (Remote)
+2	How safe did you feel while operating the device?	Likert	1	Indirect Touch (Remote)
+2	How comfortable did you feel?	Likert	1	Indirect Touch (Remote)
+2	I found it easy to understand how to use the input method.	Likert	5	Indirect Touch (Remote)
+2	I could reach the targets precisely with the input method.	Likert	3	Indirect Touch (Remote)
+2	I could focus on cycling while using the input method.	Likert	2	Indirect Touch (Remote)
+2	The input felt physically effortless.	Likert	2	Indirect Touch (Remote)
+2	The remote control did not interfere with my grip or steering.	Likert	2	Indirect Touch (Remote)
+2	I enjoyed using this remote control.	Likert	1	Indirect Touch (Remote)
+2	How safe did you feel while operating the device?	Likert	5	Buttons (Remote)
+2	How comfortable did you feel?	Likert	4	Buttons (Remote)
+2	I found it easy to understand how to use the input method.	Likert	5	Buttons (Remote)
+2	I could reach the targets precisely with the input method.	Likert	5	Buttons (Remote)
+2	I could focus on cycling while using the input method.	Likert	4	Buttons (Remote)
+2	The input felt physically effortless.	Likert	4	Buttons (Remote)
+2	The remote control did not interfere with my grip or steering.	Likert	4	Buttons (Remote)
+2	I enjoyed using this remote control.	Likert	4	Buttons (Remote)
+2	How safe did you feel while operating the device?	Likert	3	Direct Touch (Tablet)
+2	How comfortable did you feel?	Likert	2	Direct Touch (Tablet)
+2	I could focus on cycling while using the input method.	Likert	3	Direct Touch (Tablet)
+2	The input felt physically effortless.	Likert	4	Direct Touch (Tablet)
+2	I found it easy to understand how to use the input method.	Likert	4	Direct Touch (Tablet)
+2	Did you feel that using touch input required you to look away from the road/environment too much?	Likert	4	Direct Touch (Tablet)
+2	I could reach the targets precisely with the input method.	Likert	3	Direct Touch (Tablet)
+2	Which input method did you find the best overall?	Overall	Analog Stick (Remote)	Overall
+2	Which input method did you find the easiest to use?	Overall	Buttons (Remote)	Overall
+2	Which input method did you feel the safest using?	Overall	Analog Stick (Remote)	Overall
+2	Which input method allowed you to select the targets most accurately?	Overall	Analog Stick (Remote)	Overall
+2	Which input method allowed you to access the targets the quickest?	Overall	Analog Stick (Remote)	Overall
+2	Which input method would you prefer to use if you had to use it regularly on a bike?	Overall	Analog Stick (Remote)	Overall
+2	Do you have any suggestions for improving the input methods?	Overall	/	Overall
+3	How old are you?	General	30	General
+3	What is your gender?	General	Male	General
+3	How often do you ride a bicycle?	General	At least once a week	General
+3	Which types of bicycles have you ridden so far?	General	Mountain bike	General
+3	How often do you use a smartphone while riding a bicycle?	General	2	General
+3	If you used a smartphone while riding a bicycle, what did you do with it?	General	Looked up information on the Internet or for driving directions;Use a smartphone for music control	General
+3	In what environment did you use your smartphone while riding your bicycle?	General	Cycle lane / Cycle path;Dirt road;Red traffic light	General
+3	How did you use a smartphone while riding your bicycle?	General	One-handed;Headphone remote control	General
+3	How safe did you feel while operating the device?	Likert	3	Indirect Touch (Remote)
+3	How comfortable did you feel?	Likert	2	Indirect Touch (Remote)
+3	I found it easy to understand how to use the input method.	Likert	5	Indirect Touch (Remote)
+3	I could reach the targets precisely with the input method.	Likert	2	Indirect Touch (Remote)
+3	I could focus on cycling while using the input method.	Likert	2	Indirect Touch (Remote)
+3	The input felt physically effortless.	Likert	4	Indirect Touch (Remote)
+3	The remote control did not interfere with my grip or steering.	Likert	1	Indirect Touch (Remote)
+3	I enjoyed using this remote control.	Likert	2	Indirect Touch (Remote)
+3	How safe did you feel while operating the device?	Likert	4	Direct Touch (Tablet)
+3	How comfortable did you feel?	Likert	5	Direct Touch (Tablet)
+3	I could focus on cycling while using the input method.	Likert	2	Direct Touch (Tablet)
+3	The input felt physically effortless.	Likert	5	Direct Touch (Tablet)
+3	I found it easy to understand how to use the input method.	Likert	5	Direct Touch (Tablet)
+3	Did you feel that using touch input required you to look away from the road/environment too much?	Likert	4	Direct Touch (Tablet)
+3	I could reach the targets precisely with the input method.	Likert	4	Direct Touch (Tablet)
+3	How safe did you feel while operating the device?	Likert	4	Analog Stick (Remote)
+3	How comfortable did you feel?	Likert	3	Analog Stick (Remote)
+3	I found it easy to understand how to use the input method.	Likert	4	Analog Stick (Remote)
+3	I could reach the targets precisely with the input method.	Likert	2	Analog Stick (Remote)
+3	I could focus on cycling while using the input method.	Likert	3	Analog Stick (Remote)
+3	The input felt physically effortless.	Likert	5	Analog Stick (Remote)
+3	The remote control did not interfere with my grip or steering.	Likert	5	Analog Stick (Remote)
+3	I enjoyed using this remote control.	Likert	3	Analog Stick (Remote)
+3	How safe did you feel while operating the device?	Likert	5	Buttons (Remote)
+3	How comfortable did you feel?	Likert	4	Buttons (Remote)
+3	I found it easy to understand how to use the input method.	Likert	5	Buttons (Remote)
+3	I could reach the targets precisely with the input method.	Likert	5	Buttons (Remote)
+3	I could focus on cycling while using the input method.	Likert	4	Buttons (Remote)
+3	The input felt physically effortless.	Likert	4	Buttons (Remote)
+3	The remote control did not interfere with my grip or steering.	Likert	5	Buttons (Remote)
+3	I enjoyed using this remote control.	Likert	4	Buttons (Remote)
+3	Which input method did you find the best overall?	Overall	Direct Touch (Tablet)	Overall
+3	Which input method did you find the easiest to use?	Overall	Direct Touch (Tablet)	Overall
+3	Which input method did you feel the safest using?	Overall	Buttons (Remote)	Overall
+3	Which input method allowed you to select the targets most accurately?	Overall	Buttons (Remote)	Overall
+3	Which input method allowed you to access the targets the quickest?	Overall	Direct Touch (Tablet)	Overall
+3	Which input method would you prefer to use if you had to use it regularly on a bike?	Overall	Direct Touch (Tablet)	Overall
+3	Do you have any suggestions for improving the input methods?	Overall	Speech recognition?	Overall
+4	How old are you?	General	44	General
+4	What is your gender?	General	Male	General
+4	How often do you ride a bicycle?	General	At least once a month	General
+4	Which types of bicycles have you ridden so far?	General	Mountain bike	General
+4	How often do you use a smartphone while riding a bicycle?	General	2	General
+4	If you used a smartphone while riding a bicycle, what did you do with it?	General	Use a smartphone for music control	General
+4	In what environment did you use your smartphone while riding your bicycle?	General	Country lane;Dirt road	General
+4	How did you use a smartphone while riding your bicycle?	General	One-handed	General
+4	How safe did you feel while operating the device?	Likert	5	Direct Touch (Tablet)
+4	How comfortable did you feel?	Likert	5	Direct Touch (Tablet)
+4	I could focus on cycling while using the input method.	Likert	4	Direct Touch (Tablet)
+4	The input felt physically effortless.	Likert	5	Direct Touch (Tablet)
+4	I found it easy to understand how to use the input method.	Likert	5	Direct Touch (Tablet)
+4	Did you feel that using touch input required you to look away from the road/environment too much?	Likert	2	Direct Touch (Tablet)
+4	I could reach the targets precisely with the input method.	Likert	5	Direct Touch (Tablet)
+4	How safe did you feel while operating the device?	Likert	3	Buttons (Remote)
+4	How comfortable did you feel?	Likert	2	Buttons (Remote)
+4	I found it easy to understand how to use the input method.	Likert	5	Buttons (Remote)
+4	I could reach the targets precisely with the input method.	Likert	4	Buttons (Remote)
+4	I could focus on cycling while using the input method.	Likert	2	Buttons (Remote)
+4	The input felt physically effortless.	Likert	3	Buttons (Remote)
+4	The remote control did not interfere with my grip or steering.	Likert	1	Buttons (Remote)
+4	I enjoyed using this remote control.	Likert	2	Buttons (Remote)
+4	How safe did you feel while operating the device?	Likert	4	Indirect Touch (Remote)
+4	How comfortable did you feel?	Likert	3	Indirect Touch (Remote)
+4	I found it easy to understand how to use the input method.	Likert	5	Indirect Touch (Remote)
+4	I could reach the targets precisely with the input method.	Likert	3	Indirect Touch (Remote)
+4	I could focus on cycling while using the input method.	Likert	3	Indirect Touch (Remote)
+4	The input felt physically effortless.	Likert	4	Indirect Touch (Remote)
+4	The remote control did not interfere with my grip or steering.	Likert	1	Indirect Touch (Remote)
+4	I enjoyed using this remote control.	Likert	3	Indirect Touch (Remote)
+4	How safe did you feel while operating the device?	Likert	5	Analog Stick (Remote)
+4	How comfortable did you feel?	Likert	4	Analog Stick (Remote)
+4	I found it easy to understand how to use the input method.	Likert	5	Analog Stick (Remote)
+4	I could reach the targets precisely with the input method.	Likert	4	Analog Stick (Remote)
+4	I could focus on cycling while using the input method.	Likert	3	Analog Stick (Remote)
+4	The input felt physically effortless.	Likert	4	Analog Stick (Remote)
+4	The remote control did not interfere with my grip or steering.	Likert	1	Analog Stick (Remote)
+4	I enjoyed using this remote control.	Likert	3	Analog Stick (Remote)
+4	Which input method did you find the best overall?	Overall	Direct Touch (Tablet)	Overall
+4	Which input method did you find the easiest to use?	Overall	Direct Touch (Tablet)	Overall
+4	Which input method did you feel the safest using?	Overall	Direct Touch (Tablet)	Overall
+4	Which input method allowed you to select the targets most accurately?	Overall	Direct Touch (Tablet)	Overall
+4	Which input method allowed you to access the targets the quickest?	Overall	Direct Touch (Tablet)	Overall
+4	Which input method would you prefer to use if you had to use it regularly on a bike?	Overall	Direct Touch (Tablet)	Overall
+4	Do you have any suggestions for improving the input methods?	Overall	Nothing to improve. Very interesting Test with different types of input methods 	Overall
+5	How old are you?	General	32	General
+5	What is your gender?	General	Male	General
+5	How often do you ride a bicycle?	General	At least once a week	General
+5	Which types of bicycles have you ridden so far?	General	City/Trekking bike;Mountain bike	General
+5	How often do you use a smartphone while riding a bicycle?	General	2	General
+5	If you used a smartphone while riding a bicycle, what did you do with it?	General	Looked up information on the Internet or for driving directions	General
+5	In what environment did you use your smartphone while riding your bicycle?	General	Main road;Side road;Country lane;Dirt road	General
+5	How did you use a smartphone while riding your bicycle?	General	One-handed	General
+5	How safe did you feel while operating the device?	Likert	5	Buttons (Remote)
+5	How comfortable did you feel?	Likert	4	Buttons (Remote)
+5	I found it easy to understand how to use the input method.	Likert	5	Buttons (Remote)
+5	I could reach the targets precisely with the input method.	Likert	5	Buttons (Remote)
+5	I could focus on cycling while using the input method.	Likert	4	Buttons (Remote)
+5	The input felt physically effortless.	Likert	5	Buttons (Remote)
+5	The remote control did not interfere with my grip or steering.	Likert	4	Buttons (Remote)
+5	I enjoyed using this remote control.	Likert	4	Buttons (Remote)
+5	How safe did you feel while operating the device?	Likert	4	Analog Stick (Remote)
+5	How comfortable did you feel?	Likert	3	Analog Stick (Remote)
+5	I found it easy to understand how to use the input method.	Likert	3	Analog Stick (Remote)
+5	I could reach the targets precisely with the input method.	Likert	3	Analog Stick (Remote)
+5	I could focus on cycling while using the input method.	Likert	3	Analog Stick (Remote)
+5	The input felt physically effortless.	Likert	2	Analog Stick (Remote)
+5	The remote control did not interfere with my grip or steering.	Likert	3	Analog Stick (Remote)
+5	I enjoyed using this remote control.	Likert	3	Analog Stick (Remote)
+5	How safe did you feel while operating the device?	Likert	4	Direct Touch (Tablet)
+5	How comfortable did you feel?	Likert	4	Direct Touch (Tablet)
+5	I could focus on cycling while using the input method.	Likert	2	Direct Touch (Tablet)
+5	The input felt physically effortless.	Likert	4	Direct Touch (Tablet)
+5	I found it easy to understand how to use the input method.	Likert	4	Direct Touch (Tablet)
+5	Did you feel that using touch input required you to look away from the road/environment too much?	Likert	4	Direct Touch (Tablet)
+5	I could reach the targets precisely with the input method.	Likert	4	Direct Touch (Tablet)
+5	How safe did you feel while operating the device?	Likert	3	Indirect Touch (Remote)
+5	How comfortable did you feel?	Likert	1	Indirect Touch (Remote)
+5	I found it easy to understand how to use the input method.	Likert	3	Indirect Touch (Remote)
+5	I could reach the targets precisely with the input method.	Likert	2	Indirect Touch (Remote)
+5	I could focus on cycling while using the input method.	Likert	2	Indirect Touch (Remote)
+5	The input felt physically effortless.	Likert	2	Indirect Touch (Remote)
+5	The remote control did not interfere with my grip or steering.	Likert	3	Indirect Touch (Remote)
+5	I enjoyed using this remote control.	Likert	1	Indirect Touch (Remote)
+5	Which input method did you find the best overall?	Overall	Buttons (Remote)	Overall
+5	Which input method did you find the easiest to use?	Overall	Direct Touch (Tablet)	Overall
+5	Which input method did you feel the safest using?	Overall	Buttons (Remote)	Overall
+5	Which input method allowed you to select the targets most accurately?	Overall	Direct Touch (Tablet)	Overall
+5	Which input method allowed you to access the targets the quickest?	Overall	Direct Touch (Tablet)	Overall
+5	Which input method would you prefer to use if you had to use it regularly on a bike?	Overall	Direct Touch (Tablet)	Overall
+5	Do you have any suggestions for improving the input methods?	Overall		Overall
+7	How old are you?	General	30	General
+7	What is your gender?	General	Male	General
+7	How often do you ride a bicycle?	General	At least once a year	General
+7	Which types of bicycles have you ridden so far?	General	Road/Cyclocross/Gravel bike	General
+7	How often do you use a smartphone while riding a bicycle?	General	1	General
+7	If you used a smartphone while riding a bicycle, what did you do with it?	General	Looked up information on the Internet or for driving directions	General
+7	In what environment did you use your smartphone while riding your bicycle?	General	Side road	General
+7	How did you use a smartphone while riding your bicycle?	General	One-handed	General
+7	How safe did you feel while operating the device?	Likert	4	Indirect Touch (Remote)
+7	How comfortable did you feel?	Likert	2	Indirect Touch (Remote)
+7	I found it easy to understand how to use the input method.	Likert	4	Indirect Touch (Remote)
+7	I could reach the targets precisely with the input method.	Likert	3	Indirect Touch (Remote)
+7	I could focus on cycling while using the input method.	Likert	4	Indirect Touch (Remote)
+7	The input felt physically effortless.	Likert	4	Indirect Touch (Remote)
+7	The remote control did not interfere with my grip or steering.	Likert	4	Indirect Touch (Remote)
+7	I enjoyed using this remote control.	Likert	4	Indirect Touch (Remote)
+7	How safe did you feel while operating the device?	Likert	4	Direct Touch (Tablet)
+7	How comfortable did you feel?	Likert	4	Direct Touch (Tablet)
+7	I could focus on cycling while using the input method.	Likert	3	Direct Touch (Tablet)
+7	The input felt physically effortless.	Likert	4	Direct Touch (Tablet)
+7	I found it easy to understand how to use the input method.	Likert	4	Direct Touch (Tablet)
+7	Did you feel that using touch input required you to look away from the road/environment too much?	Likert	5	Direct Touch (Tablet)
+7	I could reach the targets precisely with the input method.	Likert	5	Direct Touch (Tablet)
+7	How safe did you feel while operating the device?	Likert	5	Buttons (Remote)
+7	How comfortable did you feel?	Likert	5	Buttons (Remote)
+7	I found it easy to understand how to use the input method.	Likert	5	Buttons (Remote)
+7	I could reach the targets precisely with the input method.	Likert	5	Buttons (Remote)
+7	I could focus on cycling while using the input method.	Likert	5	Buttons (Remote)
+7	The input felt physically effortless.	Likert	5	Buttons (Remote)
+7	The remote control did not interfere with my grip or steering.	Likert	5	Buttons (Remote)
+7	I enjoyed using this remote control.	Likert	5	Buttons (Remote)
+7	How safe did you feel while operating the device?	Likert	4	Analog Stick (Remote)
+7	How comfortable did you feel?	Likert	4	Analog Stick (Remote)
+7	I found it easy to understand how to use the input method.	Likert	4	Analog Stick (Remote)
+7	I could reach the targets precisely with the input method.	Likert	3	Analog Stick (Remote)
+7	I could focus on cycling while using the input method.	Likert	5	Analog Stick (Remote)
+7	The input felt physically effortless.	Likert	4	Analog Stick (Remote)
+7	The remote control did not interfere with my grip or steering.	Likert	4	Analog Stick (Remote)
+7	I enjoyed using this remote control.	Likert	4	Analog Stick (Remote)
+7	Which input method did you find the best overall?	Overall	Analog Stick (Remote)	Overall
+7	Which input method did you find the easiest to use?	Overall	Buttons (Remote)	Overall
+7	Which input method did you feel the safest using?	Overall	Buttons (Remote)	Overall
+7	Which input method allowed you to select the targets most accurately?	Overall	Analog Stick (Remote)	Overall
+7	Which input method allowed you to access the targets the quickest?	Overall	Indirect Touch (Remote)	Overall
+7	Which input method would you prefer to use if you had to use it regularly on a bike?	Overall	Direct Touch (Tablet)	Overall
+7	Do you have any suggestions for improving the input methods?	Overall		Overall
+6	How old are you?	General	34	General
+6	What is your gender?	General	Male	General
+6	How often do you ride a bicycle?	General	At least once a week	General
+6	Which types of bicycles have you ridden so far?	General	City/Trekking bike	General
+6	How often do you use a smartphone while riding a bicycle?	General	2	General
+6	If you used a smartphone while riding a bicycle, what did you do with it?	General	Looked up information on the Internet or for driving directions;Use a smartphone to respond a call;Use a smartphone to make a call	General
+6	In what environment did you use your smartphone while riding your bicycle?	General	Side road;Cycle lane / Cycle path	General
+6	How did you use a smartphone while riding your bicycle?	General	One-handed	General
+6	How safe did you feel while operating the device?	Likert	3	Analog Stick (Remote)
+6	How comfortable did you feel?	Likert	4	Analog Stick (Remote)
+6	I found it easy to understand how to use the input method.	Likert	4	Analog Stick (Remote)
+6	I could reach the targets precisely with the input method.	Likert	4	Analog Stick (Remote)
+6	I could focus on cycling while using the input method.	Likert	3	Analog Stick (Remote)
+6	The input felt physically effortless.	Likert	3	Analog Stick (Remote)
+6	The remote control did not interfere with my grip or steering.	Likert	2	Analog Stick (Remote)
+6	I enjoyed using this remote control.	Likert	4	Analog Stick (Remote)
+6	How safe did you feel while operating the device?	Likert	3	Indirect Touch (Remote)
+6	How comfortable did you feel?	Likert	2	Indirect Touch (Remote)
+6	I found it easy to understand how to use the input method.	Likert	2	Indirect Touch (Remote)
+6	I could reach the targets precisely with the input method.	Likert	3	Indirect Touch (Remote)
+6	I could focus on cycling while using the input method.	Likert	3	Indirect Touch (Remote)
+6	The input felt physically effortless.	Likert	4	Indirect Touch (Remote)
+6	The remote control did not interfere with my grip or steering.	Likert	3	Indirect Touch (Remote)
+6	I enjoyed using this remote control.	Likert	2	Indirect Touch (Remote)
+6	How safe did you feel while operating the device?	Likert	5	Buttons (Remote)
+6	How comfortable did you feel?	Likert	5	Buttons (Remote)
+6	I found it easy to understand how to use the input method.	Likert	4	Buttons (Remote)
+6	I could reach the targets precisely with the input method.	Likert	4	Buttons (Remote)
+6	I could focus on cycling while using the input method.	Likert	4	Buttons (Remote)
+6	The input felt physically effortless.	Likert	2	Buttons (Remote)
+6	The remote control did not interfere with my grip or steering.	Likert	2	Buttons (Remote)
+6	I enjoyed using this remote control.	Likert	5	Buttons (Remote)
+6	How safe did you feel while operating the device?	Likert	3	Direct Touch (Tablet)
+6	How comfortable did you feel?	Likert	3	Direct Touch (Tablet)
+6	I could focus on cycling while using the input method.	Likert	3	Direct Touch (Tablet)
+6	The input felt physically effortless.	Likert	4	Direct Touch (Tablet)
+6	I found it easy to understand how to use the input method.	Likert	4	Direct Touch (Tablet)
+6	Did you feel that using touch input required you to look away from the road/environment too much?	Likert	4	Direct Touch (Tablet)
+6	I could reach the targets precisely with the input method.	Likert	3	Direct Touch (Tablet)
+6	Which input method did you find the best overall?	Overall	Buttons (Remote)	Overall
+6	Which input method did you find the easiest to use?	Overall	Buttons (Remote)	Overall
+6	Which input method did you feel the safest using?	Overall	Buttons (Remote)	Overall
+6	Which input method allowed you to select the targets most accurately?	Overall	Buttons (Remote)	Overall
+6	Which input method allowed you to access the targets the quickest?	Overall	Analog Stick (Remote)	Overall
+6	Which input method would you prefer to use if you had to use it regularly on a bike?	Overall	Buttons (Remote)	Overall
+6	Do you have any suggestions for improving the input methods?	Overall	Guter Test. Nichts zu beanstanden.	Overall
+8	How old are you?	General	36	General
+8	What is your gender?	General	Male	General
+8	How often do you ride a bicycle?	General	(Almost) Every day	General
+8	Which types of bicycles have you ridden so far?	General	Mountain bike;Road/Cyclocross/Gravel bike	General
+8	How often do you use a smartphone while riding a bicycle?	General	1	General
+8	If you used a smartphone while riding a bicycle, what did you do with it?	General	Looked up information on the Internet or for driving directions	General
+8	In what environment did you use your smartphone while riding your bicycle?	General	Main road;Side road;Cycle lane / Cycle path;Country lane	General
+8	How did you use a smartphone while riding your bicycle?	General	One-handed	General
+8	How safe did you feel while operating the device?	Likert	2	Direct Touch (Tablet)
+8	How comfortable did you feel?	Likert	2	Direct Touch (Tablet)
+8	I could focus on cycling while using the input method.	Likert	2	Direct Touch (Tablet)
+8	The input felt physically effortless.	Likert	3	Direct Touch (Tablet)
+8	I found it easy to understand how to use the input method.	Likert	2	Direct Touch (Tablet)
+8	Did you feel that using touch input required you to look away from the road/environment too much?	Likert	4	Direct Touch (Tablet)
+8	I could reach the targets precisely with the input method.	Likert	2	Direct Touch (Tablet)
+8	How safe did you feel while operating the device?	Likert	4	Analog Stick (Remote)
+8	How comfortable did you feel?	Likert	4	Analog Stick (Remote)
+8	I found it easy to understand how to use the input method.	Likert	5	Analog Stick (Remote)
+8	I could reach the targets precisely with the input method.	Likert	3	Analog Stick (Remote)
+8	I could focus on cycling while using the input method.	Likert	4	Analog Stick (Remote)
+8	The input felt physically effortless.	Likert	4	Analog Stick (Remote)
+8	The remote control did not interfere with my grip or steering.	Likert	4	Analog Stick (Remote)
+8	I enjoyed using this remote control.	Likert	4	Analog Stick (Remote)
+8	How safe did you feel while operating the device?	Likert	4	Buttons (Remote)
+8	How comfortable did you feel?	Likert	4	Buttons (Remote)
+8	I found it easy to understand how to use the input method.	Likert	5	Buttons (Remote)
+8	I could reach the targets precisely with the input method.	Likert	5	Buttons (Remote)
+8	I could focus on cycling while using the input method.	Likert	4	Buttons (Remote)
+8	The input felt physically effortless.	Likert	5	Buttons (Remote)
+8	The remote control did not interfere with my grip or steering.	Likert	4	Buttons (Remote)
+8	I enjoyed using this remote control.	Likert	5	Buttons (Remote)
+8	How safe did you feel while operating the device?	Likert	3	Indirect Touch (Remote)
+8	How comfortable did you feel?	Likert	3	Indirect Touch (Remote)
+8	I found it easy to understand how to use the input method.	Likert	4	Indirect Touch (Remote)
+8	I could reach the targets precisely with the input method.	Likert	2	Indirect Touch (Remote)
+8	I could focus on cycling while using the input method.	Likert	2	Indirect Touch (Remote)
+8	The input felt physically effortless.	Likert	4	Indirect Touch (Remote)
+8	The remote control did not interfere with my grip or steering.	Likert	3	Indirect Touch (Remote)
+8	I enjoyed using this remote control.	Likert	3	Indirect Touch (Remote)
+8	Which input method did you find the best overall?	Overall	Buttons (Remote)	Overall
+8	Which input method did you find the easiest to use?	Overall	Buttons (Remote)	Overall
+8	Which input method did you feel the safest using?	Overall	Buttons (Remote)	Overall
+8	Which input method allowed you to select the targets most accurately?	Overall	Buttons (Remote)	Overall
+8	Which input method allowed you to access the targets the quickest?	Overall	Analog Stick (Remote)	Overall
+8	Which input method would you prefer to use if you had to use it regularly on a bike?	Overall	Buttons (Remote)	Overall
+8	Do you have any suggestions for improving the input methods?	Overall		Overall
+9	How old are you?	General	45	General
+9	What is your gender?	General	Male	General
+9	How often do you ride a bicycle?	General	At least once a year	General
+9	Which types of bicycles have you ridden so far?	General	Mountain bike	General
+9	How often do you use a smartphone while riding a bicycle?	General	1	General
+9	If you used a smartphone while riding a bicycle, what did you do with it?	General	Looked up information on the Internet or for driving directions;Use a smartphone for music control	General
+9	In what environment did you use your smartphone while riding your bicycle?	General	Main road;Side road;Cycle lane / Cycle path	General
+9	How did you use a smartphone while riding your bicycle?	General	Voice assistent;Headphone remote control	General
+9	How safe did you feel while operating the device?	Likert	2	Buttons (Remote)
+9	How comfortable did you feel?	Likert	1	Buttons (Remote)
+9	I found it easy to understand how to use the input method.	Likert	5	Buttons (Remote)
+9	I could reach the targets precisely with the input method.	Likert	4	Buttons (Remote)
+9	I could focus on cycling while using the input method.	Likert	3	Buttons (Remote)
+9	The input felt physically effortless.	Likert	3	Buttons (Remote)
+9	The remote control did not interfere with my grip or steering.	Likert	1	Buttons (Remote)
+9	I enjoyed using this remote control.	Likert	3	Buttons (Remote)
+9	How safe did you feel while operating the device?	Likert	3	Analog Stick (Remote)
+9	How comfortable did you feel?	Likert	4	Analog Stick (Remote)
+9	I found it easy to understand how to use the input method.	Likert	5	Analog Stick (Remote)
+9	I could reach the targets precisely with the input method.	Likert	3	Analog Stick (Remote)
+9	I could focus on cycling while using the input method.	Likert	3	Analog Stick (Remote)
+9	The input felt physically effortless.	Likert	4	Analog Stick (Remote)
+9	The remote control did not interfere with my grip or steering.	Likert	3	Analog Stick (Remote)
+9	I enjoyed using this remote control.	Likert	4	Analog Stick (Remote)
+9	How safe did you feel while operating the device?	Likert	5	Direct Touch (Tablet)
+9	How comfortable did you feel?	Likert	5	Direct Touch (Tablet)
+9	I could focus on cycling while using the input method.	Likert	4	Direct Touch (Tablet)
+9	The input felt physically effortless.	Likert	3	Direct Touch (Tablet)
+9	I found it easy to understand how to use the input method.	Likert	5	Direct Touch (Tablet)
+9	Did you feel that using touch input required you to look away from the road/environment too much?	Likert	4	Direct Touch (Tablet)
+9	I could reach the targets precisely with the input method.	Likert	5	Direct Touch (Tablet)
+9	How safe did you feel while operating the device?	Likert	5	Indirect Touch (Remote)
+9	How comfortable did you feel?	Likert	1	Indirect Touch (Remote)
+9	I found it easy to understand how to use the input method.	Likert	5	Indirect Touch (Remote)
+9	I could reach the targets precisely with the input method.	Likert	1	Indirect Touch (Remote)
+9	I could focus on cycling while using the input method.	Likert	2	Indirect Touch (Remote)
+9	The input felt physically effortless.	Likert	1	Indirect Touch (Remote)
+9	The remote control did not interfere with my grip or steering.	Likert	4	Indirect Touch (Remote)
+9	I enjoyed using this remote control.	Likert	3	Indirect Touch (Remote)
+9	Which input method did you find the best overall?	Overall	Analog Stick (Remote)	Overall
+9	Which input method did you find the easiest to use?	Overall	Direct Touch (Tablet)	Overall
+9	Which input method did you feel the safest using?	Overall	Buttons (Remote)	Overall
+9	Which input method allowed you to select the targets most accurately?	Overall	Direct Touch (Tablet)	Overall
+9	Which input method allowed you to access the targets the quickest?	Overall	Direct Touch (Tablet)	Overall
+9	Which input method would you prefer to use if you had to use it regularly on a bike?	Overall	Analog Stick (Remote)	Overall
+9	Do you have any suggestions for improving the input methods?	Overall		Overall
+10	How old are you?	General	31	General
+10	What is your gender?	General	Female	General
+10	How often do you ride a bicycle?	General	Never	General
+10	Which types of bicycles have you ridden so far?	General	Mountain bike	General
+10	How often do you use a smartphone while riding a bicycle?	General	1	General
+10	If you used a smartphone while riding a bicycle, what did you do with it?	General	Use a smartphone for music control	General
+10	In what environment did you use your smartphone while riding your bicycle?	General	Side road;Country lane	General
+10	How did you use a smartphone while riding your bicycle?	General	One-handed	General
+10	How safe did you feel while operating the device?	Likert	3	Direct Touch (Tablet)
+10	How comfortable did you feel?	Likert	3	Direct Touch (Tablet)
+10	I could focus on cycling while using the input method.	Likert	3	Direct Touch (Tablet)
+10	The input felt physically effortless.	Likert	3	Direct Touch (Tablet)
+10	I found it easy to understand how to use the input method.	Likert	2	Direct Touch (Tablet)
+10	Did you feel that using touch input required you to look away from the road/environment too much?	Likert	4	Direct Touch (Tablet)
+10	I could reach the targets precisely with the input method.	Likert	2	Direct Touch (Tablet)
+10	How safe did you feel while operating the device?	Likert	4	Analog Stick (Remote)
+10	How comfortable did you feel?	Likert	4	Analog Stick (Remote)
+10	I found it easy to understand how to use the input method.	Likert	5	Analog Stick (Remote)
+10	I could reach the targets precisely with the input method.	Likert	4	Analog Stick (Remote)
+10	I could focus on cycling while using the input method.	Likert	4	Analog Stick (Remote)
+10	The input felt physically effortless.	Likert	4	Analog Stick (Remote)
+10	The remote control did not interfere with my grip or steering.	Likert	3	Analog Stick (Remote)
+10	I enjoyed using this remote control.	Likert	4	Analog Stick (Remote)
+10	How safe did you feel while operating the device?	Likert	5	Buttons (Remote)
+10	How comfortable did you feel?	Likert	5	Buttons (Remote)
+10	I found it easy to understand how to use the input method.	Likert	5	Buttons (Remote)
+10	I could reach the targets precisely with the input method.	Likert	4	Buttons (Remote)
+10	I could focus on cycling while using the input method.	Likert	4	Buttons (Remote)
+10	The input felt physically effortless.	Likert	5	Buttons (Remote)
+10	The remote control did not interfere with my grip or steering.	Likert	4	Buttons (Remote)
+10	I enjoyed using this remote control.	Likert	5	Buttons (Remote)
+10	How safe did you feel while operating the device?	Likert	1	Indirect Touch (Remote)
+10	How comfortable did you feel?	Likert	1	Indirect Touch (Remote)
+10	I found it easy to understand how to use the input method.	Likert	1	Indirect Touch (Remote)
+10	I could reach the targets precisely with the input method.	Likert	1	Indirect Touch (Remote)
+10	I could focus on cycling while using the input method.	Likert	1	Indirect Touch (Remote)
+10	The input felt physically effortless.	Likert	1	Indirect Touch (Remote)
+10	The remote control did not interfere with my grip or steering.	Likert	3	Indirect Touch (Remote)
+10	I enjoyed using this remote control.	Likert	1	Indirect Touch (Remote)
+10	Which input method did you find the best overall?	Overall	Buttons (Remote)	Overall
+10	Which input method did you find the easiest to use?	Overall	Buttons (Remote)	Overall
+10	Which input method did you feel the safest using?	Overall	Buttons (Remote)	Overall
+10	Which input method allowed you to select the targets most accurately?	Overall	Buttons (Remote)	Overall
+10	Which input method allowed you to access the targets the quickest?	Overall	Buttons (Remote)	Overall
+10	Which input method would you prefer to use if you had to use it regularly on a bike?	Overall	Buttons (Remote)	Overall
+10	Do you have any suggestions for improving the input methods?	Overall		Overall
+11	How old are you?	General	38	General
+11	What is your gender?	General	Male	General
+11	How often do you ride a bicycle?	General	(Almost) Every day	General
+11	Which types of bicycles have you ridden so far?	General	Mountain bike;Road/Cyclocross/Gravel bike	General
+11	How often do you use a smartphone while riding a bicycle?	General	2	General
+11	If you used a smartphone while riding a bicycle, what did you do with it?	General	Use a smartphone to send text messages;Use a smartphone to read text messages;Use a smartphone to respond a call;Use a smartphone to make a call	General
+11	In what environment did you use your smartphone while riding your bicycle?	General	Side road;Cycle lane / Cycle path;Country lane;Red traffic light	General
+11	How did you use a smartphone while riding your bicycle?	General	One-handed	General
+11	How safe did you feel while operating the device?	Likert	3	Indirect Touch (Remote)
+11	How comfortable did you feel?	Likert	3	Indirect Touch (Remote)
+11	I found it easy to understand how to use the input method.	Likert	5	Indirect Touch (Remote)
+11	I could reach the targets precisely with the input method.	Likert	4	Indirect Touch (Remote)
+11	I could focus on cycling while using the input method.	Likert	3	Indirect Touch (Remote)
+11	The input felt physically effortless.	Likert	3	Indirect Touch (Remote)
+11	The remote control did not interfere with my grip or steering.	Likert	3	Indirect Touch (Remote)
+11	I enjoyed using this remote control.	Likert	3	Indirect Touch (Remote)
+11	How safe did you feel while operating the device?	Likert	4	Direct Touch (Tablet)
+11	How comfortable did you feel?	Likert	5	Direct Touch (Tablet)
+11	I could focus on cycling while using the input method.	Likert	2	Direct Touch (Tablet)
+11	The input felt physically effortless.	Likert	5	Direct Touch (Tablet)
+11	I found it easy to understand how to use the input method.	Likert	5	Direct Touch (Tablet)
+11	Did you feel that using touch input required you to look away from the road/environment too much?	Likert	2	Direct Touch (Tablet)
+11	I could reach the targets precisely with the input method.	Likert	5	Direct Touch (Tablet)
+11	How safe did you feel while operating the device?	Likert	4	Analog Stick (Remote)
+11	How comfortable did you feel?	Likert	4	Analog Stick (Remote)
+11	I found it easy to understand how to use the input method.	Likert	5	Analog Stick (Remote)
+11	I could reach the targets precisely with the input method.	Likert	4	Analog Stick (Remote)
+11	I could focus on cycling while using the input method.	Likert	4	Analog Stick (Remote)
+11	The input felt physically effortless.	Likert	5	Analog Stick (Remote)
+11	The remote control did not interfere with my grip or steering.	Likert	3	Analog Stick (Remote)
+11	I enjoyed using this remote control.	Likert	4	Analog Stick (Remote)
+11	How safe did you feel while operating the device?	Likert	3	Buttons (Remote)
+11	How comfortable did you feel?	Likert	2	Buttons (Remote)
+11	I found it easy to understand how to use the input method.	Likert	5	Buttons (Remote)
+11	I could reach the targets precisely with the input method.	Likert	5	Buttons (Remote)
+11	I could focus on cycling while using the input method.	Likert	4	Buttons (Remote)
+11	The input felt physically effortless.	Likert	5	Buttons (Remote)
+11	The remote control did not interfere with my grip or steering.	Likert	3	Buttons (Remote)
+11	I enjoyed using this remote control.	Likert	4	Buttons (Remote)
+11	Which input method did you find the best overall?	Overall	Direct Touch (Tablet)	Overall
+11	Which input method did you find the easiest to use?	Overall	Direct Touch (Tablet)	Overall
+11	Which input method did you feel the safest using?	Overall	Direct Touch (Tablet)	Overall
+11	Which input method allowed you to select the targets most accurately?	Overall	Direct Touch (Tablet)	Overall
+11	Which input method allowed you to access the targets the quickest?	Overall	Direct Touch (Tablet)	Overall
+11	Which input method would you prefer to use if you had to use it regularly on a bike?	Overall	Direct Touch (Tablet)	Overall
+11	Do you have any suggestions for improving the input methods?	Overall		Overall
+12	How old are you?	General	33	General
+12	What is your gender?	General	Female	General
+12	How often do you ride a bicycle?	General	At least once a week	General
+12	Which types of bicycles have you ridden so far?	General	City/Trekking bike	General
+12	How often do you use a smartphone while riding a bicycle?	General	2	General
+12	If you used a smartphone while riding a bicycle, what did you do with it?	General	Looked up information on the Internet or for driving directions;Use a smartphone to send text messages;Use a smartphone to read text messages;Use a smartphone for music control	General
+12	In what environment did you use your smartphone while riding your bicycle?	General	Side road;Country lane;Red traffic light	General
+12	How did you use a smartphone while riding your bicycle?	General	One-handed;Voice assistent	General
+12	How safe did you feel while operating the device?	Likert	3	Direct Touch (Tablet)
+12	How comfortable did you feel?	Likert	2	Direct Touch (Tablet)
+12	I could focus on cycling while using the input method.	Likert	3	Direct Touch (Tablet)
+12	The input felt physically effortless.	Likert	4	Direct Touch (Tablet)
+12	I found it easy to understand how to use the input method.	Likert	5	Direct Touch (Tablet)
+12	Did you feel that using touch input required you to look away from the road/environment too much?	Likert	4	Direct Touch (Tablet)
+12	I could reach the targets precisely with the input method.	Likert	4	Direct Touch (Tablet)
+12	How safe did you feel while operating the device?	Likert	4	Analog Stick (Remote)
+12	How comfortable did you feel?	Likert	3	Analog Stick (Remote)
+12	I found it easy to understand how to use the input method.	Likert	5	Analog Stick (Remote)
+12	I could reach the targets precisely with the input method.	Likert	2	Analog Stick (Remote)
+12	I could focus on cycling while using the input method.	Likert	3	Analog Stick (Remote)
+12	The input felt physically effortless.	Likert	2	Analog Stick (Remote)
+12	The remote control did not interfere with my grip or steering.	Likert	3	Analog Stick (Remote)
+12	I enjoyed using this remote control.	Likert	2	Analog Stick (Remote)
+12	How safe did you feel while operating the device?	Likert	4	Buttons (Remote)
+12	How comfortable did you feel?	Likert	5	Buttons (Remote)
+12	I found it easy to understand how to use the input method.	Likert	5	Buttons (Remote)
+12	I could reach the targets precisely with the input method.	Likert	5	Buttons (Remote)
+12	I could focus on cycling while using the input method.	Likert	4	Buttons (Remote)
+12	The input felt physically effortless.	Likert	4	Buttons (Remote)
+12	The remote control did not interfere with my grip or steering.	Likert	3	Buttons (Remote)
+12	I enjoyed using this remote control.	Likert	5	Buttons (Remote)
+12	How safe did you feel while operating the device?	Likert	2	Indirect Touch (Remote)
+12	How comfortable did you feel?	Likert	1	Indirect Touch (Remote)
+12	I found it easy to understand how to use the input method.	Likert	2	Indirect Touch (Remote)
+12	I could reach the targets precisely with the input method.	Likert	1	Indirect Touch (Remote)
+12	I could focus on cycling while using the input method.	Likert	2	Indirect Touch (Remote)
+12	The input felt physically effortless.	Likert	2	Indirect Touch (Remote)
+12	The remote control did not interfere with my grip or steering.	Likert	2	Indirect Touch (Remote)
+12	I enjoyed using this remote control.	Likert	1	Indirect Touch (Remote)
+12	Which input method did you find the best overall?	Overall	Buttons (Remote)	Overall
+12	Which input method did you find the easiest to use?	Overall	Buttons (Remote)	Overall
+12	Which input method did you feel the safest using?	Overall	Buttons (Remote)	Overall
+12	Which input method allowed you to select the targets most accurately?	Overall	Buttons (Remote)	Overall
+12	Which input method allowed you to access the targets the quickest?	Overall	Direct Touch (Tablet)	Overall
+12	Which input method would you prefer to use if you had to use it regularly on a bike?	Overall	Buttons (Remote)	Overall
+12	Do you have any suggestions for improving the input methods?	Overall		Overall
+13	How old are you?	General	67	General
+13	What is your gender?	General	Male	General
+13	How often do you ride a bicycle?	General	(Almost) Every day	General
+13	Which types of bicycles have you ridden so far?	General	Mountain bike;Road/Cyclocross/Gravel bike	General
+13	How often do you use a smartphone while riding a bicycle?	General	1	General
+13	If you used a smartphone while riding a bicycle, what did you do with it?	General		General
+13	In what environment did you use your smartphone while riding your bicycle?	General		General
+13	How did you use a smartphone while riding your bicycle?	General		General
+13	How safe did you feel while operating the device?	Likert	4	Buttons (Remote)
+13	How comfortable did you feel?	Likert	4	Buttons (Remote)
+13	I found it easy to understand how to use the input method.	Likert	4	Buttons (Remote)
+13	I could reach the targets precisely with the input method.	Likert	3	Buttons (Remote)
+13	I could focus on cycling while using the input method.	Likert	3	Buttons (Remote)
+13	The input felt physically effortless.	Likert	4	Buttons (Remote)
+13	The remote control did not interfere with my grip or steering.	Likert	3	Buttons (Remote)
+13	I enjoyed using this remote control.	Likert	3	Buttons (Remote)
+13	How safe did you feel while operating the device?	Likert	4	Analog Stick (Remote)
+13	How comfortable did you feel?	Likert	4	Analog Stick (Remote)
+13	I found it easy to understand how to use the input method.	Likert	4	Analog Stick (Remote)
+13	I could reach the targets precisely with the input method.	Likert	4	Analog Stick (Remote)
+13	I could focus on cycling while using the input method.	Likert	4	Analog Stick (Remote)
+13	The input felt physically effortless.	Likert	5	Analog Stick (Remote)
+13	The remote control did not interfere with my grip or steering.	Likert	4	Analog Stick (Remote)
+13	I enjoyed using this remote control.	Likert	4	Analog Stick (Remote)
+13	How safe did you feel while operating the device?	Likert	2	Direct Touch (Tablet)
+13	How comfortable did you feel?	Likert	2	Direct Touch (Tablet)
+13	I could focus on cycling while using the input method.	Likert	2	Direct Touch (Tablet)
+13	The input felt physically effortless.	Likert	2	Direct Touch (Tablet)
+13	I found it easy to understand how to use the input method.	Likert	3	Direct Touch (Tablet)
+13	Did you feel that using touch input required you to look away from the road/environment too much?	Likert	4	Direct Touch (Tablet)
+13	I could reach the targets precisely with the input method.	Likert	2	Direct Touch (Tablet)
+13	How safe did you feel while operating the device?	Likert	4	Indirect Touch (Remote)
+13	How comfortable did you feel?	Likert	3	Indirect Touch (Remote)
+13	I found it easy to understand how to use the input method.	Likert	3	Indirect Touch (Remote)
+13	I could reach the targets precisely with the input method.	Likert	1	Indirect Touch (Remote)
+13	I could focus on cycling while using the input method.	Likert	3	Indirect Touch (Remote)
+13	The input felt physically effortless.	Likert	4	Indirect Touch (Remote)
+13	The remote control did not interfere with my grip or steering.	Likert	3	Indirect Touch (Remote)
+13	I enjoyed using this remote control.	Likert	2	Indirect Touch (Remote)
+13	Which input method did you find the best overall?	Overall	Analog Stick (Remote)	Overall
+13	Which input method did you find the easiest to use?	Overall	Analog Stick (Remote)	Overall
+13	Which input method did you feel the safest using?	Overall	Analog Stick (Remote)	Overall
+13	Which input method allowed you to select the targets most accurately?	Overall	Buttons (Remote)	Overall
+13	Which input method allowed you to access the targets the quickest?	Overall	Analog Stick (Remote)	Overall
+13	Which input method would you prefer to use if you had to use it regularly on a bike?	Overall	Analog Stick (Remote)	Overall
+13	Do you have any suggestions for improving the input methods?	Overall	Etwas trägeres Ansprechverhalten bei Analog Stick 	Overall
+14	How old are you?	General	31	General
+14	What is your gender?	General	Female	General
+14	How often do you ride a bicycle?	General	(Almost) Every day	General
+14	Which types of bicycles have you ridden so far?	General	City/Trekking bike;Mountain bike	General
+14	How often do you use a smartphone while riding a bicycle?	General	2	General
+14	If you used a smartphone while riding a bicycle, what did you do with it?	General	Looked up information on the Internet or for driving directions;Use a smartphone to respond a call;Use a smartphone to make a call	General
+14	In what environment did you use your smartphone while riding your bicycle?	General	Side road;Cycle lane / Cycle path;Country lane	General
+14	How did you use a smartphone while riding your bicycle?	General	Two-handed;One-handed;Headphone remote control	General
+14	How safe did you feel while operating the device?	Likert	5	Analog Stick (Remote)
+14	How comfortable did you feel?	Likert	3	Analog Stick (Remote)
+14	I found it easy to understand how to use the input method.	Likert	5	Analog Stick (Remote)
+14	I could reach the targets precisely with the input method.	Likert	2	Analog Stick (Remote)
+14	I could focus on cycling while using the input method.	Likert	3	Analog Stick (Remote)
+14	The input felt physically effortless.	Likert	4	Analog Stick (Remote)
+14	The remote control did not interfere with my grip or steering.	Likert	4	Analog Stick (Remote)
+14	I enjoyed using this remote control.	Likert	2	Analog Stick (Remote)
+14	How safe did you feel while operating the device?	Likert	5	Indirect Touch (Remote)
+14	How comfortable did you feel?	Likert	5	Indirect Touch (Remote)
+14	I found it easy to understand how to use the input method.	Likert	5	Indirect Touch (Remote)
+14	I could reach the targets precisely with the input method.	Likert	4	Indirect Touch (Remote)
+14	I could focus on cycling while using the input method.	Likert	4	Indirect Touch (Remote)
+14	The input felt physically effortless.	Likert	5	Indirect Touch (Remote)
+14	The remote control did not interfere with my grip or steering.	Likert	4	Indirect Touch (Remote)
+14	I enjoyed using this remote control.	Likert	5	Indirect Touch (Remote)
+14	How safe did you feel while operating the device?	Likert	5	Buttons (Remote)
+14	How comfortable did you feel?	Likert	5	Buttons (Remote)
+14	I found it easy to understand how to use the input method.	Likert	5	Buttons (Remote)
+14	I could reach the targets precisely with the input method.	Likert	5	Buttons (Remote)
+14	I could focus on cycling while using the input method.	Likert	4	Buttons (Remote)
+14	The input felt physically effortless.	Likert	5	Buttons (Remote)
+14	The remote control did not interfere with my grip or steering.	Likert	4	Buttons (Remote)
+14	I enjoyed using this remote control.	Likert	5	Buttons (Remote)
+14	How safe did you feel while operating the device?	Likert	4	Direct Touch (Tablet)
+14	How comfortable did you feel?	Likert	4	Direct Touch (Tablet)
+14	I could focus on cycling while using the input method.	Likert	2	Direct Touch (Tablet)
+14	The input felt physically effortless.	Likert	4	Direct Touch (Tablet)
+14	I found it easy to understand how to use the input method.	Likert	4	Direct Touch (Tablet)
+14	Did you feel that using touch input required you to look away from the road/environment too much?	Likert	3	Direct Touch (Tablet)
+14	I could reach the targets precisely with the input method.	Likert	5	Direct Touch (Tablet)
+14	Which input method did you find the best overall?	Overall	Buttons (Remote)	Overall
+14	Which input method did you find the easiest to use?	Overall	Buttons (Remote)	Overall
+14	Which input method did you feel the safest using?	Overall	Buttons (Remote)	Overall
+14	Which input method allowed you to select the targets most accurately?	Overall	Buttons (Remote)	Overall
+14	Which input method allowed you to access the targets the quickest?	Overall	Direct Touch (Tablet)	Overall
+14	Which input method would you prefer to use if you had to use it regularly on a bike?	Overall	Buttons (Remote)	Overall
+14	Do you have any suggestions for improving the input methods?	Overall	Using a more sensitive joystick 	Overall
+15	How old are you?	General	24	General
+15	What is your gender?	General	Male	General
+15	How often do you ride a bicycle?	General	At least once a week	General
+15	Which types of bicycles have you ridden so far?	General	Mountain bike	General
+15	How often do you use a smartphone while riding a bicycle?	General	2	General
+15	If you used a smartphone while riding a bicycle, what did you do with it?	General	Looked up information on the Internet or for driving directions;Use a smartphone to send text messages;Use a smartphone to read text messages;Use a smartphone to respond a call	General
+15	In what environment did you use your smartphone while riding your bicycle?	General	Side road;Country lane;Red traffic light	General
+15	How did you use a smartphone while riding your bicycle?	General	One-handed	General
+15	How safe did you feel while operating the device?	Likert	5	Direct Touch (Tablet)
+15	How comfortable did you feel?	Likert	5	Direct Touch (Tablet)
+15	I could focus on cycling while using the input method.	Likert	4	Direct Touch (Tablet)
+15	The input felt physically effortless.	Likert	5	Direct Touch (Tablet)
+15	I found it easy to understand how to use the input method.	Likert	4	Direct Touch (Tablet)
+15	Did you feel that using touch input required you to look away from the road/environment too much?	Likert	2	Direct Touch (Tablet)
+15	I could reach the targets precisely with the input method.	Likert	5	Direct Touch (Tablet)
+15	How safe did you feel while operating the device?	Likert	3	Analog Stick (Remote)
+15	How comfortable did you feel?	Likert	3	Analog Stick (Remote)
+15	I found it easy to understand how to use the input method.	Likert	5	Analog Stick (Remote)
+15	I could reach the targets precisely with the input method.	Likert	2	Analog Stick (Remote)
+15	I could focus on cycling while using the input method.	Likert	3	Analog Stick (Remote)
+15	The input felt physically effortless.	Likert	3	Analog Stick (Remote)
+15	The remote control did not interfere with my grip or steering.	Likert	2	Analog Stick (Remote)
+15	I enjoyed using this remote control.	Likert	2	Analog Stick (Remote)
+15	How safe did you feel while operating the device?	Likert	4	Buttons (Remote)
+15	How comfortable did you feel?	Likert	3	Buttons (Remote)
+15	I found it easy to understand how to use the input method.	Likert	5	Buttons (Remote)
+15	I could reach the targets precisely with the input method.	Likert	4	Buttons (Remote)
+15	I could focus on cycling while using the input method.	Likert	4	Buttons (Remote)
+15	The input felt physically effortless.	Likert	4	Buttons (Remote)
+15	The remote control did not interfere with my grip or steering.	Likert	3	Buttons (Remote)
+15	I enjoyed using this remote control.	Likert	4	Buttons (Remote)
+15	How safe did you feel while operating the device?	Likert	2	Indirect Touch (Remote)
+15	How comfortable did you feel?	Likert	2	Indirect Touch (Remote)
+15	I found it easy to understand how to use the input method.	Likert	4	Indirect Touch (Remote)
+15	I could reach the targets precisely with the input method.	Likert	3	Indirect Touch (Remote)
+15	I could focus on cycling while using the input method.	Likert	2	Indirect Touch (Remote)
+15	The input felt physically effortless.	Likert	3	Indirect Touch (Remote)
+15	The remote control did not interfere with my grip or steering.	Likert	2	Indirect Touch (Remote)
+15	I enjoyed using this remote control.	Likert	2	Indirect Touch (Remote)
+15	Which input method did you find the best overall?	Overall	Direct Touch (Tablet)	Overall
+15	Which input method did you find the easiest to use?	Overall	Direct Touch (Tablet)	Overall
+15	Which input method did you feel the safest using?	Overall	Direct Touch (Tablet)	Overall
+15	Which input method allowed you to select the targets most accurately?	Overall	Direct Touch (Tablet)	Overall
+15	Which input method allowed you to access the targets the quickest?	Overall	Direct Touch (Tablet)	Overall
+15	Which input method would you prefer to use if you had to use it regularly on a bike?	Overall	Direct Touch (Tablet)	Overall
+15	Do you have any suggestions for improving the input methods?	Overall		Overall
+17	How old are you?	General	45	General
+17	What is your gender?	General	Male	General
+17	How often do you ride a bicycle?	General	At least once a week	General
+17	Which types of bicycles have you ridden so far?	General	City/Trekking bike;Mountain bike;EMTB	General
+17	How often do you use a smartphone while riding a bicycle?	General	5	General
+17	If you used a smartphone while riding a bicycle, what did you do with it?	General	Looked up information on the Internet or for driving directions;Use a smartphone to send text messages;Use a smartphone to read text messages;Use a smartphone to respond a call;Use a smartphone for music control	General
+17	In what environment did you use your smartphone while riding your bicycle?	General	Main road;Side road;Cycle lane / Cycle path;Country lane	General
+17	How did you use a smartphone while riding your bicycle?	General	Two-handed;One-handed	General
+17	How safe did you feel while operating the device?	Likert	5	Buttons (Remote)
+17	How comfortable did you feel?	Likert	5	Buttons (Remote)
+17	I found it easy to understand how to use the input method.	Likert	5	Buttons (Remote)
+17	I could reach the targets precisely with the input method.	Likert	5	Buttons (Remote)
+17	I could focus on cycling while using the input method.	Likert	3	Buttons (Remote)
+17	The input felt physically effortless.	Likert	4	Buttons (Remote)
+17	The remote control did not interfere with my grip or steering.	Likert	4	Buttons (Remote)
+17	I enjoyed using this remote control.	Likert	5	Buttons (Remote)
+17	How safe did you feel while operating the device?	Likert	1	Analog Stick (Remote)
+17	How comfortable did you feel?	Likert	1	Analog Stick (Remote)
+17	I found it easy to understand how to use the input method.	Likert	1	Analog Stick (Remote)
+17	I could reach the targets precisely with the input method.	Likert	1	Analog Stick (Remote)
+17	I could focus on cycling while using the input method.	Likert	1	Analog Stick (Remote)
+17	The input felt physically effortless.	Likert	1	Analog Stick (Remote)
+17	The remote control did not interfere with my grip or steering.	Likert	1	Analog Stick (Remote)
+17	I enjoyed using this remote control.	Likert	1	Analog Stick (Remote)
+17	How safe did you feel while operating the device?	Likert	5	Direct Touch (Tablet)
+17	How comfortable did you feel?	Likert	5	Direct Touch (Tablet)
+17	I could focus on cycling while using the input method.	Likert	1	Direct Touch (Tablet)
+17	The input felt physically effortless.	Likert	5	Direct Touch (Tablet)
+17	I found it easy to understand how to use the input method.	Likert	5	Direct Touch (Tablet)
+17	Did you feel that using touch input required you to look away from the road/environment too much?	Likert	5	Direct Touch (Tablet)
+17	I could reach the targets precisely with the input method.	Likert	5	Direct Touch (Tablet)
+17	How safe did you feel while operating the device?	Likert	1	Indirect Touch (Remote)
+17	How comfortable did you feel?	Likert	1	Indirect Touch (Remote)
+17	I found it easy to understand how to use the input method.	Likert	1	Indirect Touch (Remote)
+17	I could reach the targets precisely with the input method.	Likert	1	Indirect Touch (Remote)
+17	I could focus on cycling while using the input method.	Likert	1	Indirect Touch (Remote)
+17	The input felt physically effortless.	Likert	1	Indirect Touch (Remote)
+17	The remote control did not interfere with my grip or steering.	Likert	1	Indirect Touch (Remote)
+17	I enjoyed using this remote control.	Likert	1	Indirect Touch (Remote)
+17	Which input method did you find the best overall?	Overall	Direct Touch (Tablet)	Overall
+17	Which input method did you find the easiest to use?	Overall	Buttons (Remote)	Overall
+17	Which input method did you feel the safest using?	Overall	Buttons (Remote)	Overall
+17	Which input method allowed you to select the targets most accurately?	Overall	Direct Touch (Tablet)	Overall
+17	Which input method allowed you to access the targets the quickest?	Overall	Buttons (Remote)	Overall
+17	Which input method would you prefer to use if you had to use it regularly on a bike?	Overall	Buttons (Remote)	Overall
+17	Do you have any suggestions for improving the input methods?	Overall		Overall
+16	How old are you?	General	25	General
+16	What is your gender?	General	Female	General
+16	How often do you ride a bicycle?	General	At least once a month	General
+16	Which types of bicycles have you ridden so far?	General	City/Trekking bike	General
+16	How often do you use a smartphone while riding a bicycle?	General	1	General
+16	If you used a smartphone while riding a bicycle, what did you do with it?	General	Looked up information on the Internet or for driving directions;Use a smartphone for music control	General
+16	In what environment did you use your smartphone while riding your bicycle?	General	Country lane	General
+16	How did you use a smartphone while riding your bicycle?	General	One-handed;Headphone remote control	General
+16	How safe did you feel while operating the device?	Likert	5	Direct Touch (Tablet)
+16	How comfortable did you feel?	Likert	5	Direct Touch (Tablet)
+16	I could focus on cycling while using the input method.	Likert	2	Direct Touch (Tablet)
+16	The input felt physically effortless.	Likert	4	Direct Touch (Tablet)
+16	I found it easy to understand how to use the input method.	Likert	3	Direct Touch (Tablet)
+16	Did you feel that using touch input required you to look away from the road/environment too much?	Likert	3	Direct Touch (Tablet)
+16	I could reach the targets precisely with the input method.	Likert	4	Direct Touch (Tablet)
+16	How safe did you feel while operating the device?	Likert	3	Buttons (Remote)
+16	How comfortable did you feel?	Likert	3	Buttons (Remote)
+16	I found it easy to understand how to use the input method.	Likert	5	Buttons (Remote)
+16	I could reach the targets precisely with the input method.	Likert	5	Buttons (Remote)
+16	I could focus on cycling while using the input method.	Likert	4	Buttons (Remote)
+16	The input felt physically effortless.	Likert	5	Buttons (Remote)
+16	The remote control did not interfere with my grip or steering.	Likert	3	Buttons (Remote)
+16	I enjoyed using this remote control.	Likert	2	Buttons (Remote)
+16	How safe did you feel while operating the device?	Likert	4	Indirect Touch (Remote)
+16	How comfortable did you feel?	Likert	4	Indirect Touch (Remote)
+16	I found it easy to understand how to use the input method.	Likert	5	Indirect Touch (Remote)
+16	I could reach the targets precisely with the input method.	Likert	5	Indirect Touch (Remote)
+16	I could focus on cycling while using the input method.	Likert	4	Indirect Touch (Remote)
+16	The input felt physically effortless.	Likert	5	Indirect Touch (Remote)
+16	The remote control did not interfere with my grip or steering.	Likert	3	Indirect Touch (Remote)
+16	I enjoyed using this remote control.	Likert	4	Indirect Touch (Remote)
+16	How safe did you feel while operating the device?	Likert	3	Analog Stick (Remote)
+16	How comfortable did you feel?	Likert	3	Analog Stick (Remote)
+16	I found it easy to understand how to use the input method.	Likert	5	Analog Stick (Remote)
+16	I could reach the targets precisely with the input method.	Likert	2	Analog Stick (Remote)
+16	I could focus on cycling while using the input method.	Likert	2	Analog Stick (Remote)
+16	The input felt physically effortless.	Likert	5	Analog Stick (Remote)
+16	The remote control did not interfere with my grip or steering.	Likert	2	Analog Stick (Remote)
+16	I enjoyed using this remote control.	Likert	1	Analog Stick (Remote)
+16	Which input method did you find the best overall?	Overall	Direct Touch (Tablet)	Overall
+16	Which input method did you find the easiest to use?	Overall	Direct Touch (Tablet)	Overall
+16	Which input method did you feel the safest using?	Overall	Direct Touch (Tablet)	Overall
+16	Which input method allowed you to select the targets most accurately?	Overall	Direct Touch (Tablet)	Overall
+16	Which input method allowed you to access the targets the quickest?	Overall	Direct Touch (Tablet)	Overall
+16	Which input method would you prefer to use if you had to use it regularly on a bike?	Overall	Direct Touch (Tablet)	Overall
+16	Do you have any suggestions for improving the input methods?	Overall		Overall
+18	How old are you?	General	65	General
+18	What is your gender?	General	Male	General
+18	How often do you ride a bicycle?	General	At least once a month	General
+18	Which types of bicycles have you ridden so far?	General	Mountain bike	General
+18	How often do you use a smartphone while riding a bicycle?	General	1	General
+18	If you used a smartphone while riding a bicycle, what did you do with it?	General		General
+18	In what environment did you use your smartphone while riding your bicycle?	General		General
+18	How did you use a smartphone while riding your bicycle?	General		General
+18	How safe did you feel while operating the device?	Likert	3	Analog Stick (Remote)
+18	How comfortable did you feel?	Likert	2	Analog Stick (Remote)
+18	I found it easy to understand how to use the input method.	Likert	4	Analog Stick (Remote)
+18	I could reach the targets precisely with the input method.	Likert	3	Analog Stick (Remote)
+18	I could focus on cycling while using the input method.	Likert	2	Analog Stick (Remote)
+18	The input felt physically effortless.	Likert	4	Analog Stick (Remote)
+18	The remote control did not interfere with my grip or steering.	Likert	3	Analog Stick (Remote)
+18	I enjoyed using this remote control.	Likert	3	Analog Stick (Remote)
+18	How safe did you feel while operating the device?	Likert	3	Indirect Touch (Remote)
+18	How comfortable did you feel?	Likert	2	Indirect Touch (Remote)
+18	I found it easy to understand how to use the input method.	Likert	4	Indirect Touch (Remote)
+18	I could reach the targets precisely with the input method.	Likert	1	Indirect Touch (Remote)
+18	I could focus on cycling while using the input method.	Likert	2	Indirect Touch (Remote)
+18	The input felt physically effortless.	Likert	3	Indirect Touch (Remote)
+18	The remote control did not interfere with my grip or steering.	Likert	2	Indirect Touch (Remote)
+18	I enjoyed using this remote control.	Likert	2	Indirect Touch (Remote)
+18	How safe did you feel while operating the device?	Likert	5	Buttons (Remote)
+18	How comfortable did you feel?	Likert	4	Buttons (Remote)
+18	I found it easy to understand how to use the input method.	Likert	5	Buttons (Remote)
+18	I could reach the targets precisely with the input method.	Likert	4	Buttons (Remote)
+18	I could focus on cycling while using the input method.	Likert	4	Buttons (Remote)
+18	The input felt physically effortless.	Likert	4	Buttons (Remote)
+18	The remote control did not interfere with my grip or steering.	Likert	4	Buttons (Remote)
+18	I enjoyed using this remote control.	Likert	5	Buttons (Remote)
+18	How safe did you feel while operating the device?	Likert	4	Direct Touch (Tablet)
+18	How comfortable did you feel?	Likert	3	Direct Touch (Tablet)
+18	I could focus on cycling while using the input method.	Likert	3	Direct Touch (Tablet)
+18	The input felt physically effortless.	Likert	3	Direct Touch (Tablet)
+18	I found it easy to understand how to use the input method.	Likert	4	Direct Touch (Tablet)
+18	Did you feel that using touch input required you to look away from the road/environment too much?	Likert	4	Direct Touch (Tablet)
+18	I could reach the targets precisely with the input method.	Likert	3	Direct Touch (Tablet)
+18	Which input method did you find the best overall?	Overall	Buttons (Remote)	Overall
+18	Which input method did you find the easiest to use?	Overall	Buttons (Remote)	Overall
+18	Which input method did you feel the safest using?	Overall	Buttons (Remote)	Overall
+18	Which input method allowed you to select the targets most accurately?	Overall	Buttons (Remote)	Overall
+18	Which input method allowed you to access the targets the quickest?	Overall	Buttons (Remote)	Overall
+18	Which input method would you prefer to use if you had to use it regularly on a bike?	Overall	Buttons (Remote)	Overall
+18	Do you have any suggestions for improving the input methods?	Overall		Overall
+19	How old are you?	General	31	General
+19	What is your gender?	General	Female	General
+19	How often do you ride a bicycle?	General	At least once a month	General
+19	Which types of bicycles have you ridden so far?	General	Mountain bike	General
+19	How often do you use a smartphone while riding a bicycle?	General	1	General
+19	If you used a smartphone while riding a bicycle, what did you do with it?	General		General
+19	In what environment did you use your smartphone while riding your bicycle?	General		General
+19	How did you use a smartphone while riding your bicycle?	General		General
+19	How safe did you feel while operating the device?	Likert	4	Indirect Touch (Remote)
+19	How comfortable did you feel?	Likert	4	Indirect Touch (Remote)
+19	I found it easy to understand how to use the input method.	Likert	5	Indirect Touch (Remote)
+19	I could reach the targets precisely with the input method.	Likert	2	Indirect Touch (Remote)
+19	I could focus on cycling while using the input method.	Likert	2	Indirect Touch (Remote)
+19	The input felt physically effortless.	Likert	2	Indirect Touch (Remote)
+19	The remote control did not interfere with my grip or steering.	Likert	2	Indirect Touch (Remote)
+19	I enjoyed using this remote control.	Likert	2	Indirect Touch (Remote)
+19	How safe did you feel while operating the device?	Likert	5	Direct Touch (Tablet)
+19	How comfortable did you feel?	Likert	4	Direct Touch (Tablet)
+19	I could focus on cycling while using the input method.	Likert	4	Direct Touch (Tablet)
+19	The input felt physically effortless.	Likert	4	Direct Touch (Tablet)
+19	I found it easy to understand how to use the input method.	Likert	5	Direct Touch (Tablet)
+19	Did you feel that using touch input required you to look away from the road/environment too much?	Likert	1	Direct Touch (Tablet)
+19	I could reach the targets precisely with the input method.	Likert	4	Direct Touch (Tablet)
+19	How safe did you feel while operating the device?	Likert	4	Analog Stick (Remote)
+19	How comfortable did you feel?	Likert	4	Analog Stick (Remote)
+19	I found it easy to understand how to use the input method.	Likert	5	Analog Stick (Remote)
+19	I could reach the targets precisely with the input method.	Likert	4	Analog Stick (Remote)
+19	I could focus on cycling while using the input method.	Likert	3	Analog Stick (Remote)
+19	The input felt physically effortless.	Likert	4	Analog Stick (Remote)
+19	The remote control did not interfere with my grip or steering.	Likert	4	Analog Stick (Remote)
+19	I enjoyed using this remote control.	Likert	3	Analog Stick (Remote)
+19	How safe did you feel while operating the device?	Likert	4	Buttons (Remote)
+19	How comfortable did you feel?	Likert	4	Buttons (Remote)
+19	I found it easy to understand how to use the input method.	Likert	5	Buttons (Remote)
+19	I could reach the targets precisely with the input method.	Likert	5	Buttons (Remote)
+19	I could focus on cycling while using the input method.	Likert	4	Buttons (Remote)
+19	The input felt physically effortless.	Likert	5	Buttons (Remote)
+19	The remote control did not interfere with my grip or steering.	Likert	4	Buttons (Remote)
+19	I enjoyed using this remote control.	Likert	5	Buttons (Remote)
+19	Which input method did you find the best overall?	Overall	Buttons (Remote)	Overall
+19	Which input method did you find the easiest to use?	Overall	Direct Touch (Tablet)	Overall
+19	Which input method did you feel the safest using?	Overall	Buttons (Remote)	Overall
+19	Which input method allowed you to select the targets most accurately?	Overall	Direct Touch (Tablet)	Overall
+19	Which input method allowed you to access the targets the quickest?	Overall	Direct Touch (Tablet)	Overall
+19	Which input method would you prefer to use if you had to use it regularly on a bike?	Overall	Buttons (Remote)	Overall
+19	Do you have any suggestions for improving the input methods?	Overall		Overall
+20	How old are you?	General	42	General
+20	What is your gender?	General	Male	General
+20	How often do you ride a bicycle?	General	(Almost) Every day	General
+20	Which types of bicycles have you ridden so far?	General	Mountain bike;Road/Cyclocross/Gravel bike	General
+20	How often do you use a smartphone while riding a bicycle?	General	2	General
+20	If you used a smartphone while riding a bicycle, what did you do with it?	General	Looked up information on the Internet or for driving directions;Use a smartphone to send text messages;Use a smartphone to read text messages;Use a smartphone to respond a call;Use a smartphone to make a call	General
+20	In what environment did you use your smartphone while riding your bicycle?	General	Main road;Side road;Cycle lane / Cycle path;Country lane;Dirt road;Red traffic light	General
+20	How did you use a smartphone while riding your bicycle?	General	One-handed	General
+20	How safe did you feel while operating the device?	Likert	2	Direct Touch (Tablet)
+20	How comfortable did you feel?	Likert	3	Direct Touch (Tablet)
+20	I could focus on cycling while using the input method.	Likert	3	Direct Touch (Tablet)
+20	The input felt physically effortless.	Likert	5	Direct Touch (Tablet)
+20	I found it easy to understand how to use the input method.	Likert	3	Direct Touch (Tablet)
+20	Did you feel that using touch input required you to look away from the road/environment too much?	Likert	3	Direct Touch (Tablet)
+20	I could reach the targets precisely with the input method.	Likert	4	Direct Touch (Tablet)
+20	How safe did you feel while operating the device?	Likert	5	Buttons (Remote)
+20	How comfortable did you feel?	Likert	5	Buttons (Remote)
+20	I found it easy to understand how to use the input method.	Likert	5	Buttons (Remote)
+20	I could reach the targets precisely with the input method.	Likert	5	Buttons (Remote)
+20	I could focus on cycling while using the input method.	Likert	4	Buttons (Remote)
+20	The input felt physically effortless.	Likert	5	Buttons (Remote)
+20	The remote control did not interfere with my grip or steering.	Likert	5	Buttons (Remote)
+20	I enjoyed using this remote control.	Likert	5	Buttons (Remote)
+20	How safe did you feel while operating the device?	Likert	3	Indirect Touch (Remote)
+20	How comfortable did you feel?	Likert	3	Indirect Touch (Remote)
+20	I found it easy to understand how to use the input method.	Likert	2	Indirect Touch (Remote)
+20	I could reach the targets precisely with the input method.	Likert	2	Indirect Touch (Remote)
+20	I could focus on cycling while using the input method.	Likert	2	Indirect Touch (Remote)
+20	The input felt physically effortless.	Likert	3	Indirect Touch (Remote)
+20	The remote control did not interfere with my grip or steering.	Likert	1	Indirect Touch (Remote)
+20	I enjoyed using this remote control.	Likert	1	Indirect Touch (Remote)
+20	How safe did you feel while operating the device?	Likert	4	Analog Stick (Remote)
+20	How comfortable did you feel?	Likert	4	Analog Stick (Remote)
+20	I found it easy to understand how to use the input method.	Likert	5	Analog Stick (Remote)
+20	I could reach the targets precisely with the input method.	Likert	4	Analog Stick (Remote)
+20	I could focus on cycling while using the input method.	Likert	4	Analog Stick (Remote)
+20	The input felt physically effortless.	Likert	5	Analog Stick (Remote)
+20	The remote control did not interfere with my grip or steering.	Likert	4	Analog Stick (Remote)
+20	I enjoyed using this remote control.	Likert	4	Analog Stick (Remote)
+20	Which input method did you find the best overall?	Overall	Buttons (Remote)	Overall
+20	Which input method did you find the easiest to use?	Overall	Buttons (Remote)	Overall
+20	Which input method did you feel the safest using?	Overall	Buttons (Remote)	Overall
+20	Which input method allowed you to select the targets most accurately?	Overall	Buttons (Remote)	Overall
+20	Which input method allowed you to access the targets the quickest?	Overall	Buttons (Remote)	Overall
+20	Which input method would you prefer to use if you had to use it regularly on a bike?	Overall	Buttons (Remote)	Overall
+20	Do you have any suggestions for improving the input methods?	Overall	Nothing, really. maybe the select button in the other handle so you have to use the other thumb to select, you don't have to be ambidextrous for that. I think that might be even easier as it is already.	Overall
+21	How old are you?	General	36	General
+21	What is your gender?	General	Male	General
+21	How often do you ride a bicycle?	General	At least once a week	General
+21	Which types of bicycles have you ridden so far?	General	City/Trekking bike;Mountain bike;Road/Cyclocross/Gravel bike	General
+21	How often do you use a smartphone while riding a bicycle?	General	4	General
+21	If you used a smartphone while riding a bicycle, what did you do with it?	General	Looked up information on the Internet or for driving directions;Use a smartphone to send text messages;Use a smartphone to read text messages;Use a smartphone to respond a call;Use a smartphone to make a call;Use a smartphone for music control	General
+21	In what environment did you use your smartphone while riding your bicycle?	General	Main road;Side road;Country lane	General
+21	How did you use a smartphone while riding your bicycle?	General	One-handed	General
+21	How safe did you feel while operating the device?	Likert	5	Buttons (Remote)
+21	How comfortable did you feel?	Likert	2	Buttons (Remote)
+21	I found it easy to understand how to use the input method.	Likert	5	Buttons (Remote)
+21	I could reach the targets precisely with the input method.	Likert	5	Buttons (Remote)
+21	I could focus on cycling while using the input method.	Likert	5	Buttons (Remote)
+21	The input felt physically effortless.	Likert	5	Buttons (Remote)
+21	The remote control did not interfere with my grip or steering.	Likert	5	Buttons (Remote)
+21	I enjoyed using this remote control.	Likert	4	Buttons (Remote)
+21	How safe did you feel while operating the device?	Likert	4	Analog Stick (Remote)
+21	How comfortable did you feel?	Likert	4	Analog Stick (Remote)
+21	I found it easy to understand how to use the input method.	Likert	5	Analog Stick (Remote)
+21	I could reach the targets precisely with the input method.	Likert	5	Analog Stick (Remote)
+21	I could focus on cycling while using the input method.	Likert	5	Analog Stick (Remote)
+21	The input felt physically effortless.	Likert	5	Analog Stick (Remote)
+21	The remote control did not interfere with my grip or steering.	Likert	5	Analog Stick (Remote)
+21	I enjoyed using this remote control.	Likert	4	Analog Stick (Remote)
+21	How safe did you feel while operating the device?	Likert	5	Direct Touch (Tablet)
+21	How comfortable did you feel?	Likert	5	Direct Touch (Tablet)
+21	I could focus on cycling while using the input method.	Likert	5	Direct Touch (Tablet)
+21	The input felt physically effortless.	Likert	5	Direct Touch (Tablet)
+21	I found it easy to understand how to use the input method.	Likert	5	Direct Touch (Tablet)
+21	Did you feel that using touch input required you to look away from the road/environment too much?	Likert	1	Direct Touch (Tablet)
+21	I could reach the targets precisely with the input method.	Likert	5	Direct Touch (Tablet)
+21	How safe did you feel while operating the device?	Likert	3	Indirect Touch (Remote)
+21	How comfortable did you feel?	Likert	2	Indirect Touch (Remote)
+21	I found it easy to understand how to use the input method.	Likert	4	Indirect Touch (Remote)
+21	I could reach the targets precisely with the input method.	Likert	1	Indirect Touch (Remote)
+21	I could focus on cycling while using the input method.	Likert	2	Indirect Touch (Remote)
+21	The input felt physically effortless.	Likert	1	Indirect Touch (Remote)
+21	The remote control did not interfere with my grip or steering.	Likert	3	Indirect Touch (Remote)
+21	I enjoyed using this remote control.	Likert	1	Indirect Touch (Remote)
+21	Which input method did you find the best overall?	Overall	Direct Touch (Tablet)	Overall
+21	Which input method did you find the easiest to use?	Overall	Direct Touch (Tablet)	Overall
+21	Which input method did you feel the safest using?	Overall	Direct Touch (Tablet)	Overall
+21	Which input method allowed you to select the targets most accurately?	Overall	Buttons (Remote)	Overall
+21	Which input method allowed you to access the targets the quickest?	Overall	Direct Touch (Tablet)	Overall
+21	Which input method would you prefer to use if you had to use it regularly on a bike?	Overall	Direct Touch (Tablet)	Overall
+21	Do you have any suggestions for improving the input methods?	Overall	No. 	Overall
+22	How old are you?	General	28	General
+22	What is your gender?	General	Male	General
+22	How often do you ride a bicycle?	General	At least once a year	General
+22	Which types of bicycles have you ridden so far?	General	Mountain bike;Road/Cyclocross/Gravel bike	General
+22	How often do you use a smartphone while riding a bicycle?	General	1	General
+22	If you used a smartphone while riding a bicycle, what did you do with it?	General	Use a smartphone to respond a call;Use a smartphone to make a call;Use a smartphone for music control	General
+22	In what environment did you use your smartphone while riding your bicycle?	General	Main road;Side road;Cycle lane / Cycle path;Country lane	General
+22	How did you use a smartphone while riding your bicycle?	General	One-handed;Headphone remote control	General
+22	How safe did you feel while operating the device?	Likert	5	Analog Stick (Remote)
+22	How comfortable did you feel?	Likert	3	Analog Stick (Remote)
+22	I found it easy to understand how to use the input method.	Likert	5	Analog Stick (Remote)
+22	I could reach the targets precisely with the input method.	Likert	4	Analog Stick (Remote)
+22	I could focus on cycling while using the input method.	Likert	3	Analog Stick (Remote)
+22	The input felt physically effortless.	Likert	5	Analog Stick (Remote)
+22	The remote control did not interfere with my grip or steering.	Likert	4	Analog Stick (Remote)
+22	I enjoyed using this remote control.	Likert	3	Analog Stick (Remote)
+22	How safe did you feel while operating the device?	Likert	4	Indirect Touch (Remote)
+22	How comfortable did you feel?	Likert	4	Indirect Touch (Remote)
+22	I found it easy to understand how to use the input method.	Likert	5	Indirect Touch (Remote)
+22	I could reach the targets precisely with the input method.	Likert	4	Indirect Touch (Remote)
+22	I could focus on cycling while using the input method.	Likert	3	Indirect Touch (Remote)
+22	The input felt physically effortless.	Likert	4	Indirect Touch (Remote)
+22	The remote control did not interfere with my grip or steering.	Likert	3	Indirect Touch (Remote)
+22	I enjoyed using this remote control.	Likert	2	Indirect Touch (Remote)
+22	How safe did you feel while operating the device?	Likert	5	Buttons (Remote)
+22	How comfortable did you feel?	Likert	5	Buttons (Remote)
+22	I found it easy to understand how to use the input method.	Likert	5	Buttons (Remote)
+22	I could reach the targets precisely with the input method.	Likert	5	Buttons (Remote)
+22	I could focus on cycling while using the input method.	Likert	5	Buttons (Remote)
+22	The input felt physically effortless.	Likert	5	Buttons (Remote)
+22	The remote control did not interfere with my grip or steering.	Likert	5	Buttons (Remote)
+22	I enjoyed using this remote control.	Likert	5	Buttons (Remote)
+22	How safe did you feel while operating the device?	Likert	5	Direct Touch (Tablet)
+22	How comfortable did you feel?	Likert	5	Direct Touch (Tablet)
+22	I could focus on cycling while using the input method.	Likert	1	Direct Touch (Tablet)
+22	The input felt physically effortless.	Likert	5	Direct Touch (Tablet)
+22	I found it easy to understand how to use the input method.	Likert	5	Direct Touch (Tablet)
+22	Did you feel that using touch input required you to look away from the road/environment too much?	Likert	3	Direct Touch (Tablet)
+22	I could reach the targets precisely with the input method.	Likert	5	Direct Touch (Tablet)
+22	Which input method did you find the best overall?	Overall	Buttons (Remote)	Overall
+22	Which input method did you find the easiest to use?	Overall	Buttons (Remote)	Overall
+22	Which input method did you feel the safest using?	Overall	Buttons (Remote)	Overall
+22	Which input method allowed you to select the targets most accurately?	Overall	Buttons (Remote)	Overall
+22	Which input method allowed you to access the targets the quickest?	Overall	Buttons (Remote)	Overall
+22	Which input method would you prefer to use if you had to use it regularly on a bike?	Overall	Buttons (Remote)	Overall
+22	Do you have any suggestions for improving the input methods?	Overall	Make it more responsive and maybe haptic feedback in the buttons	Overall
+23	How old are you?	General	19	General
+23	What is your gender?	General	Male	General
+23	How often do you ride a bicycle?	General	At least once a week	General
+23	Which types of bicycles have you ridden so far?	General	City/Trekking bike;Mountain bike;Road/Cyclocross/Gravel bike	General
+23	How often do you use a smartphone while riding a bicycle?	General	1	General
+23	If you used a smartphone while riding a bicycle, what did you do with it?	General	Use a smartphone to respond a call	General
+23	In what environment did you use your smartphone while riding your bicycle?	General	Side road;Cycle lane / Cycle path;Red traffic light	General
+23	How did you use a smartphone while riding your bicycle?	General	One-handed	General
+23	How safe did you feel while operating the device?	Likert	2	Indirect Touch (Remote)
+23	How comfortable did you feel?	Likert	3	Indirect Touch (Remote)
+23	I found it easy to understand how to use the input method.	Likert	5	Indirect Touch (Remote)
+23	I could reach the targets precisely with the input method.	Likert	1	Indirect Touch (Remote)
+23	I could focus on cycling while using the input method.	Likert	2	Indirect Touch (Remote)
+23	The input felt physically effortless.	Likert	1	Indirect Touch (Remote)
+23	The remote control did not interfere with my grip or steering.	Likert	2	Indirect Touch (Remote)
+23	I enjoyed using this remote control.	Likert	1	Indirect Touch (Remote)
+23	How safe did you feel while operating the device?	Likert	2	Direct Touch (Tablet)
+23	How comfortable did you feel?	Likert	4	Direct Touch (Tablet)
+23	I could focus on cycling while using the input method.	Likert	3	Direct Touch (Tablet)
+23	The input felt physically effortless.	Likert	3	Direct Touch (Tablet)
+23	I found it easy to understand how to use the input method.	Likert	3	Direct Touch (Tablet)
+23	Did you feel that using touch input required you to look away from the road/environment too much?	Likert	5	Direct Touch (Tablet)
+23	I could reach the targets precisely with the input method.	Likert	4	Direct Touch (Tablet)
+23	How safe did you feel while operating the device?	Likert	5	Analog Stick (Remote)
+23	How comfortable did you feel?	Likert	4	Analog Stick (Remote)
+23	I found it easy to understand how to use the input method.	Likert	5	Analog Stick (Remote)
+23	I could reach the targets precisely with the input method.	Likert	4	Analog Stick (Remote)
+23	I could focus on cycling while using the input method.	Likert	3	Analog Stick (Remote)
+23	The input felt physically effortless.	Likert	4	Analog Stick (Remote)
+23	The remote control did not interfere with my grip or steering.	Likert	5	Analog Stick (Remote)
+23	I enjoyed using this remote control.	Likert	4	Analog Stick (Remote)
+23	How safe did you feel while operating the device?	Likert	5	Buttons (Remote)
+23	How comfortable did you feel?	Likert	5	Buttons (Remote)
+23	I found it easy to understand how to use the input method.	Likert	5	Buttons (Remote)
+23	I could reach the targets precisely with the input method.	Likert	5	Buttons (Remote)
+23	I could focus on cycling while using the input method.	Likert	4	Buttons (Remote)
+23	The input felt physically effortless.	Likert	4	Buttons (Remote)
+23	The remote control did not interfere with my grip or steering.	Likert	5	Buttons (Remote)
+23	I enjoyed using this remote control.	Likert	5	Buttons (Remote)
+23	Which input method did you find the best overall?	Overall	Buttons (Remote)	Overall
+23	Which input method did you find the easiest to use?	Overall	Direct Touch (Tablet)	Overall
+23	Which input method did you feel the safest using?	Overall	Buttons (Remote)	Overall
+23	Which input method allowed you to select the targets most accurately?	Overall	Direct Touch (Tablet)	Overall
+23	Which input method allowed you to access the targets the quickest?	Overall	Analog Stick (Remote)	Overall
+23	Which input method would you prefer to use if you had to use it regularly on a bike?	Overall	Buttons (Remote)	Overall
+23	Do you have any suggestions for improving the input methods?	Overall		Overall

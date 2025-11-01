@@ -1,0 +1,145 @@
+Timestamp, Selection, Source, Description, Index
+1755680276797, 2D, State, INIT, 
+1755680276803, 2D, State, START, 
+1755680280263, 2D, State, WAIT, 
+1755680300560, 2D, State, RESET, 
+1755680300584, 2D, App Event, Target direction[Up_out_left], 3 / 2
+1755680309347, 2D, User Event, Clicked, 3 / 2
+1755680309370, 2D, App Event, Target selected, 
+1755680309380, 2D, State, WAIT, 
+1755680324953, 2D, State, RESET, 
+1755680324972, 2D, App Event, Target direction[Down_right], 9 / 6
+1755680328507, 2D, User Event, Clicked, 9 / 6
+1755680328530, 2D, App Event, Target selected, 
+1755680328540, 2D, State, WAIT, 
+1755680353440, 2D, State, RESET, 
+1755680353463, 2D, App Event, Target direction[Up_out_right], 2 / 9
+1755680358549, 2D, User Event, Clicked, 2 / 9
+1755680358573, 2D, App Event, Target selected, 
+1755680358581, 2D, State, WAIT, 
+1755680380141, 2D, State, RESET, 
+1755680380158, 2D, App Event, Target direction[Up_right], 6 / 6
+1755680382067, 2D, User Event, Clicked, 6 / 6
+1755680382085, 2D, App Event, Target selected, 
+1755680382099, 2D, State, WAIT, 
+1755680397450, 2D, State, RESET, 
+1755680397465, 2D, App Event, Target direction[Down_out_left], 13 / 2
+1755680404766, 2D, User Event, Clicked, 13 / 2
+1755680404788, 2D, App Event, Target selected, 
+1755680404798, 2D, State, WAIT, 
+1755680426185, 2D, State, RESET, 
+1755680426200, 2D, App Event, Target direction[Down_out_right], 13 / 9
+1755680435808, 2D, User Event, Clicked, 13 / 9
+1755680435828, 2D, App Event, Target selected, 
+1755680435837, 2D, State, WAIT, 
+1755680453825, 2D, State, RESET, 
+1755680453851, 2D, App Event, Target direction[Down_left], 9 / 4
+1755680456813, 2D, User Event, Clicked, 9 / 4
+1755680456835, 2D, App Event, Target selected, 
+1755680456843, 2D, State, WAIT, 
+1755680480304, 2D, State, RESET, 
+1755680480328, 2D, App Event, Target direction[Up_left], 6 / 4
+1755680482296, 2D, User Event, Clicked, 6 / 4
+1755680482312, 2D, App Event, Target selected, 
+1755680482319, 2D, State, END, 
+1755680482325, 2D, App Event, 2D assignment finished, 
+1755680482379, 2D, State, INIT, 
+1755680482388, 2D, State, START, 
+1755680482531, Vertical, State, INIT, 
+1755680482536, Vertical, State, START, 
+1755680484865, Vertical, State, WAIT, 
+1755680509055, Vertical, State, RESET, 
+1755680509074, Vertical, App Event, Target direction[Up], 9
+1755680511409, Vertical, User Event, Clicked, 9
+1755680511432, Vertical, App Event, Target selected, 
+1755680511448, Vertical, State, WAIT, 
+1755680527830, Vertical, State, RESET, 
+1755680527848, Vertical, App Event, Target direction[Up_out], 6
+1755680543694, Vertical, User Event, Clicked, 6
+1755680543713, Vertical, App Event, Target selected, 
+1755680543726, Vertical, State, WAIT, 
+1755680568627, Vertical, State, RESET, 
+1755680568645, Vertical, App Event, Target direction[Down], 15
+1755680571424, Vertical, User Event, Clicked, 16
+1755680571684, Vertical, User Event, Clicked, 15
+1755680571703, Vertical, App Event, Target selected, 
+1755680571711, Vertical, State, WAIT, 
+1755680595562, Vertical, State, RESET, 
+1755680595582, Vertical, App Event, Target direction[Down_out], 25
+1755680608478, Vertical, User Event, Clicked, 25
+1755680608499, Vertical, App Event, Target selected, 
+1755680608512, Vertical, State, WAIT, 
+1755680623999, Vertical, State, RESET, 
+1755680624018, Vertical, App Event, Target direction[Up_out], 6
+1755680627055, Vertical, User Event, Clicked, 6
+1755680627077, Vertical, App Event, Target selected, 
+1755680627091, Vertical, State, WAIT, 
+1755680649142, Vertical, State, RESET, 
+1755680649158, Vertical, App Event, Target direction[Up], 9
+1755680651822, Vertical, User Event, Clicked, 9
+1755680651839, Vertical, App Event, Target selected, 
+1755680651847, Vertical, State, WAIT, 
+1755680668224, Vertical, State, RESET, 
+1755680668245, Vertical, App Event, Target direction[Down], 18
+1755680671149, Vertical, User Event, Clicked, 18
+1755680671172, Vertical, App Event, Target selected, 
+1755680671182, Vertical, State, WAIT, 
+1755680688620, Vertical, State, RESET, 
+1755680688637, Vertical, App Event, Target direction[Down_out], 23
+1755680693566, Vertical, User Event, Clicked, 23
+1755680693589, Vertical, App Event, Target selected, 
+1755680693597, Vertical, State, END, 
+1755680693610, Vertical, App Event, Vertical assignment finished, 
+1755680693653, Vertical, State, INIT, 
+1755680693664, Vertical, State, START, 
+1755680693800, Horizontal, State, INIT, 
+1755680693805, Horizontal, State, START, 
+1755680695955, Horizontal, State, WAIT, 
+1755680714241, Horizontal, State, RESET, 
+1755680714260, Horizontal, App Event, Target direction[Right], 11
+1755680716766, Horizontal, User Event, Clicked, 11
+1755680716784, Horizontal, App Event, Target selected, 
+1755680716797, Horizontal, State, WAIT, 
+1755680741873, Horizontal, State, RESET, 
+1755680741892, Horizontal, App Event, Target direction[Right], 10
+1755680743948, Horizontal, User Event, Clicked, 11
+1755680744232, Horizontal, User Event, Clicked, 10
+1755680744252, Horizontal, App Event, Target selected, 
+1755680744261, Horizontal, State, WAIT, 
+1755680760858, Horizontal, State, RESET, 
+1755680760880, Horizontal, App Event, Target direction[Left_out], 3
+1755680764552, Horizontal, User Event, Clicked, 3
+1755680764570, Horizontal, App Event, Target selected, 
+1755680764581, Horizontal, State, WAIT, 
+1755680781151, Horizontal, State, RESET, 
+1755680781169, Horizontal, App Event, Target direction[Right_out], 14
+1755680783828, Horizontal, User Event, Clicked, 14
+1755680783846, Horizontal, App Event, Target selected, 
+1755680783854, Horizontal, State, WAIT, 
+1755680800386, Horizontal, State, RESET, 
+1755680800408, Horizontal, App Event, Target direction[Left], 5
+1755680802439, Horizontal, User Event, Clicked, 5
+1755680802458, Horizontal, App Event, Target selected, 
+1755680802467, Horizontal, State, WAIT, 
+1755680825602, Horizontal, State, RESET, 
+1755680825625, Horizontal, App Event, Target direction[Left], 7
+1755680828475, Horizontal, User Event, Clicked, 6
+1755680828750, Horizontal, User Event, Clicked, 8
+1755680829067, Horizontal, User Event, Clicked, 8
+1755680829778, Horizontal, User Event, Clicked, 7
+1755680829798, Horizontal, App Event, Target selected, 
+1755680829811, Horizontal, State, WAIT, 
+1755680845653, Horizontal, State, RESET, 
+1755680845672, Horizontal, App Event, Target direction[Right_out], 17
+1755680850773, Horizontal, User Event, Clicked, 17
+1755680850792, Horizontal, App Event, Target selected, 
+1755680850803, Horizontal, State, WAIT, 
+1755680866701, Horizontal, State, RESET, 
+1755680866720, Horizontal, App Event, Target direction[Left_out], 4
+1755680869723, Horizontal, User Event, Clicked, 4
+1755680869742, Horizontal, App Event, Target selected, 
+1755680869750, Horizontal, State, END, 
+1755680869757, Horizontal, App Event, Horizontal assignment finished, 
+1755680869789, Horizontal, App Event, All assignments finished, 
+1755680869805, Horizontal, State, INIT, 
+1755680869815, Horizontal, State, START, 
