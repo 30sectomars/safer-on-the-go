@@ -5,14 +5,14 @@ These tools were developed to inspect, clean, and convert raw data recorded by t
 
 ---
 
-##Environment
+## Environment
 
 - **Software:** LabVIEW 2025 Q1 (Version 25.1.3f3, 64-bit)  
 - **Additional Package:** [OpenG Toolkit](https://www.vipm.io/package/openg.org_lib_openg_toolkit/) installed via NI Package Manager (VIPM)
 
 ---
 
-##Purpose
+## Purpose
 
 The LabVIEW VIs in this folder serve the following main purposes:
 
@@ -31,7 +31,7 @@ The LabVIEW VIs in this folder serve the following main purposes:
 
 ---
 
-##Notes
+## Notes
 
 - All paths in the VIs are **relative** to the project directory.    
 - The output datasets were later analyzed using **R (RStudio)** as part of the statistical evaluation.
