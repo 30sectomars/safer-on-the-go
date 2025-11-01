@@ -1,4 +1,4 @@
-# Data Processing – LabVIEW Tools
+# Data Processing with LabVIEW
 
 This folder contains the LabVIEW-based tools used for data preprocessing and visualization during the *Safer on the Go* outdoor study.  
 These tools were developed to inspect, clean, and convert raw data recorded by the Android application into a format suitable for further statistical analysis in RStudio.
